@@ -1,3 +1,3 @@
 ~~~
-pandoc -s a.tex -o a.docx
+pandoc -s Query01.tex -o Query01.docx
 ~~~

@@ -1,0 +1,76 @@
+id|codigo|sigla|nome|periodo|categoria|chteorica|chpratica
+79|ENG103||Cartografia||optativa|30|15
+101|CET104||Geoprocessamento e Cartografia||optativa|15|30
+107|CBI339||Recursos Energéticos I||optativa|30|15
+124|ENG111||Noções Básicas de Máquinas e Equipamentos||optativa|60|0
+138|CAG277||Avaliação e Análise de Riscos Ambientais||optativa|30|0
+141|Nova009||Física Do Solo||optativa|30|15
+145|Nova007||Ecologia da Vegetação||optativa|60|40
+147|Nova005||Caracterização e Gestão de Unidades de Conservação||optativa|30|15
+148|Nova010||Gerenciamento de Resíduos de Serviço de Saúde||optativa|30|15
+149|Nova017||Tratamento de Efluentes Industriais||optativa|30|15
+75|CET071||Física I|1|obrigatoria|45|15
+106|CAG117||Química Geral|1|obrigatoria|45|15
+117|ENG070||Desenho Técnico|1|obrigatoria|30|30
+126|CBI014||Biologia|1|obrigatoria|60|0
+130|CET014||Calculo Integral e Diferencial I|1|obrigatoria|45|15
+131|NCL114||Metodologia Científica|1|obrigatoria|45|0
+132|CET262||Geologia|1|obrigatoria|45|15
+144|Nova011||Introdução A Engenharia Ambiental|1|obrigatoria|30|0
+153|AA12345|IEA|Introdução a Engenharia Ambiental|1|obrigatoria|30|0
+127|CSA500||Perícia Ambiental|10|obrigatoria|15|15
+128|CSA393||Trabalho de Conclusão de Curso II|10|obrigatoria|60|0
+129|Nova003||Elaboração de Projetos em Engenharia|10|obrigatoria|15|15
+76|CET231||Probalidade e Estatística|2|obrigatoria|30|30
+77|CET073||Física II|2|obrigatoria|45|15
+78|CAG108||Química Analítica|2|obrigatoria|45|15
+80|CBI049||Ecologia|2|obrigatoria|45|15
+82|CET099||Geomorfologia|2|obrigatoria|30|15
+89|ENG049||Mecânica da Engenharia|2|obrigatoria|60|0
+133|CET015||Calculo Integral e Diferencial II|2|obrigatoria|60|0
+81|CAG150||Solos|3|obrigatoria|45|15
+83|CET016||Calculo Integral e Diferencial III|3|obrigatoria|60|0
+85|CET074||Física III|3|obrigatoria|45|15
+86|CAG271||Cultura, Sociedade e Meio Ambiente|3|obrigatoria|30|15
+87|CAG123||Química Orgânica|3|obrigatoria|45|15
+90|ENG033||Fenômenos de Transporte|3|obrigatoria|60|0
+96|ENG104||Caracterização Ambiental I|3|obrigatoria|30|15
+88|ENG063||Topografia|4|obrigatoria|15|45
+92|CBI344||Microbiologia Ambiental|4|obrigatoria|45|15
+93|ENG071||Resistência dos Materiais|4|obrigatoria|60|0
+94|ENG035||Hidráulica|4|obrigatoria|45|15
+95|CAG135||Sensoriamento Remoto|4|obrigatoria|30|30
+97|CAG272||Química Ambiental|4|obrigatoria|30|15
+139|CET024||Métodos Numéricos|4|obrigatoria|30|30
+91|Nova006||Algoritmos e Estrutura de dados|5|obrigatoria|15|45
+100|CAG083||Meteorologia e Climatologia|5|obrigatoria|45|15
+102|ENG105||Caracterização Ambiental II|5|obrigatoria|30|15
+104|CSA001||Administração e Empreendedorismo|5|obrigatoria|60|0
+135|Nova008||Eletricidade aplicada e Instrumentação Ambiental|5|obrigatoria|15|45
+137|ENG107||Poluição Ambiental|5|obrigatoria|45|15
+143|Nova002||Geoprocessamento e Cartografia|5|obrigatoria|30|30
+99|ENG039||Hidrologia|6|obrigatoria|45|15
+103|ENG108||Geotecnia Ambiental|6|obrigatoria|45|15
+105|ENG035||Processos e Operações Unitárias Aplicados Na Engenharia Ambiental|6|obrigatoria|30|15
+108|CHU033||Educação Ambiental|6|obrigatoria|30|15
+109|ENG106||Manejo e Conservação dos Recursos Naturais|6|obrigatoria|30|30
+111|Nova016||Sistemas Hidráulicos Em Saneamento|6|obrigatoria|45|15
+114|CSA093||Direito Ambiental|6|obrigatoria|60|0
+110|CAG274||Avaliação de Impactos Ambientais|7|obrigatoria|45|15
+112|CAG275||Tratamento de Efluentes|7|obrigatoria|45|15
+113|Nova015||Recursos Energéticos|7|obrigatoria|45|15
+115|CAG131||Saúde e Vigilância Ambiental|7|obrigatoria|30|30
+125|CSA163||Economia Ambiental|7|obrigatoria|45|0
+140|CAG537||Drenagem Urbana|7|obrigatoria|15|30
+146|Nova018||Tratamento de Água|7|obrigatoria|15|15
+116|Nova001||Licenciamento Ambiental|8|obrigatoria|45|15
+119|CSA278||Planejamento Ambiental|8|obrigatoria|45|15
+120|NCL011||Estágio Curricular Supervionado|8|obrigatoria|0|180
+123|Nova013||Projeto de Sistemas de Abastecimento e de Tratamento de Água|8|obrigatoria|30|15
+134|CAG282||Gestão dos Recursos Hídricos|8|obrigatoria|45|15
+142|Nova004||Segurança Do Trabalho e Riscos Ambientais|8|obrigatoria|45|15
+118|CAG278||Projeto e Gestão dos Resíduos Sólidos|9|obrigatoria|45|15
+121|CAG279||Recuperação e Reabilitação Ambiental|9|obrigatoria|30|30
+122|CSA392||Trabalho de Conclusão de Curso I|9|obrigatoria|60|0
+136|Nova014||Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias|9|obrigatoria|30|15
+150|CAG216||Sistemas de Gestão Ambiental|9|obrigatoria|60|0
