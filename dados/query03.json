@@ -1,0 +1,3761 @@
+[
+  {
+    "id":3,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":1,
+    "item":"Conceitos básicos de economia"
+  },
+  {
+    "id":4,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":2,
+    "item":"Conceitos de Microeconomia e macroeconomia."
+  },
+  {
+    "id":5,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":3,
+    "item":"Economia de Mercado."
+  },
+  {
+    "id":6,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":4,
+    "item":"Engenharia Econômica."
+  },
+  {
+    "id":7,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":5,
+    "item":"Economia em meio ambiente."
+  },
+  {
+    "id":8,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":6,
+    "item":"Conceitos economicos para o Desenvolvimento Sustentável."
+  },
+  {
+    "id":9,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":7,
+    "item":"Valor econômico do meio ambiente."
+  },
+  {
+    "id":10,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":8,
+    "item":"Tecnicas de valoração econômica do Meio Ambiente."
+  },
+  {
+    "id":11,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":9,
+    "item":"Princípio do Poluidor Usuário/Pagador e Protetor recebedor."
+  },
+  {
+    "id":12,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":10,
+    "item":"Gestão Econômica do Meio Ambiente."
+  },
+  {
+    "id":13,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "ordem":11,
+    "item":"Instrumentos econômicos de gestão do meio ambiente."
+  },
+  {
+    "id":14,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":1,
+    "item":"Grandezas físicas e vetoriais"
+  },
+  {
+    "id":15,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":2,
+    "item":"Movimento retilíneo"
+  },
+  {
+    "id":16,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":3,
+    "item":"Movimento circular e uniforme e variado"
+  },
+  {
+    "id":17,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":4,
+    "item":"Leis de Newton"
+  },
+  {
+    "id":18,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":5,
+    "item":"Movimento no plano"
+  },
+  {
+    "id":19,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":6,
+    "item":"Lançamento vertical e queda livre"
+  },
+  {
+    "id":20,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":7,
+    "item":"Trabalho e energia"
+  },
+  {
+    "id":21,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":8,
+    "item":"Lei de Conservação de energia"
+  },
+  {
+    "id":22,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "ordem":9,
+    "item":"Impulso e quantidade de movimento"
+  },
+  {
+    "id":23,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":1,
+    "item":"Gravitação"
+  },
+  {
+    "id":24,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":2,
+    "item":"Ondas em meios elásticos"
+  },
+  {
+    "id":25,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":3,
+    "item":"Ondas sonoras"
+  },
+  {
+    "id":26,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":4,
+    "item":"Hidrostática"
+  },
+  {
+    "id":27,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":5,
+    "item":"Estática dos fluídos"
+  },
+  {
+    "id":28,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":6,
+    "item":"Dinâmica dos fluídos"
+  },
+  {
+    "id":29,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":7,
+    "item":"Termometria"
+  },
+  {
+    "id":30,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":8,
+    "item":"Calor e transmissão de calor"
+  },
+  {
+    "id":31,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":9,
+    "item":"Leis da termodinâmica"
+  },
+  {
+    "id":32,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":10,
+    "item":"Teoria cinética dos gases"
+  },
+  {
+    "id":33,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "ordem":11,
+    "item":"Entropia"
+  },
+  {
+    "id":34,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":1,
+    "item":"Fenômenos elétricos e magnéticos"
+  },
+  {
+    "id":35,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":2,
+    "item":"Carga e matéria"
+  },
+  {
+    "id":36,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":3,
+    "item":"Campo elétrico"
+  },
+  {
+    "id":37,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":4,
+    "item":"Lei de Gauss"
+  },
+  {
+    "id":38,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":5,
+    "item":"Potencial elétrico"
+  },
+  {
+    "id":39,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":6,
+    "item":"Corrente e resistência elétrica"
+  },
+  {
+    "id":40,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":7,
+    "item":"Força eletromotriz e circuitos elétricos"
+  },
+  {
+    "id":41,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":8,
+    "item":"Campo magnético"
+  },
+  {
+    "id":42,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":9,
+    "item":"Lei de Ampère"
+  },
+  {
+    "id":43,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":10,
+    "item":"Lei de Faraday"
+  },
+  {
+    "id":44,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":11,
+    "item":"Indutância"
+  },
+  {
+    "id":45,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "ordem":12,
+    "item":"Propriedades magnéticas da matéria"
+  },
+  {
+    "id":46,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":1,
+    "item":"Características Físicas da Terra"
+  },
+  {
+    "id":47,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":2,
+    "item":"Geodinâmica e tectônica de placas"
+  },
+  {
+    "id":48,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":3,
+    "item":"Minerais e Rochas: ígneas, sedimentares e metamórficas"
+  },
+  {
+    "id":49,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":4,
+    "item":"Elementos estruturais das rochas, perfis geológicos e mapas"
+  },
+  {
+    "id":50,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":5,
+    "item":"Ciclo das rochas e da água"
+  },
+  {
+    "id":51,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":6,
+    "item":"Elementos de hidrogeologia"
+  },
+  {
+    "id":52,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":7,
+    "item":"Recursos Minerais do Brasil"
+  },
+  {
+    "id":53,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":8,
+    "item":"Mineração e aspectos ambientais"
+  },
+  {
+    "id":54,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":9,
+    "item":"Uso das rochas e dos solos como material de construção e industrial"
+  },
+  {
+    "id":55,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "ordem":10,
+    "item":"Aspectos da geologia do Brasil e do Tocantins"
+  },
+  {
+    "id":56,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "ordem":1,
+    "item":"Processos geomorfológicos exógenos"
+  },
+  {
+    "id":57,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "ordem":2,
+    "item":"Solos: parâmetros físicos, permeabilidade e compactação"
+  },
+  {
+    "id":58,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "ordem":3,
+    "item":"Investigação do solo e do subsolo"
+  },
+  {
+    "id":59,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "ordem":4,
+    "item":"Ambientes geológicos de erosão e deposição"
+  },
+  {
+    "id":60,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "ordem":5,
+    "item":"Movimento de Massa"
+  },
+  {
+    "id":61,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "ordem":6,
+    "item":"Bases do Mapeamento Geomorfológico"
+  },
+  {
+    "id":62,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "ordem":7,
+    "item":"Introdução à Geomorfologia do Brasil e do Tocantins."
+  },
+  {
+    "id":63,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "ordem":1,
+    "item":"Interação solo contaminante"
+  },
+  {
+    "id":64,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "ordem":2,
+    "item":"Transporte de contaminantes no solo"
+  },
+  {
+    "id":65,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "ordem":3,
+    "item":"Amostragem do solo e água subterrânea"
+  },
+  {
+    "id":66,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "ordem":4,
+    "item":"Valores norteadores de nível de contaminação no solo e na água subterrânea"
+  },
+  {
+    "id":67,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "ordem":5,
+    "item":"Medidas de intervenção no gerenciamento de áreas contaminadas"
+  },
+  {
+    "id":68,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "ordem":6,
+    "item":"Técnicas de contenção e remediação de solo e água subterrânea"
+  },
+  {
+    "id":69,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "ordem":7,
+    "item":"Barragens e dragagem: tipos, operação e aspectos ambientais"
+  },
+  {
+    "id":70,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "ordem":1,
+    "item":"Conceitos sobre o uso da água"
+  },
+  {
+    "id":71,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "ordem":2,
+    "item":"Lei 9.433 da Política Nacional de Recursos Hídricos"
+  },
+  {
+    "id":72,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "ordem":3,
+    "item":"Sistema Nacional de Recursos Hídricos"
+  },
+  {
+    "id":73,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "ordem":4,
+    "item":"Comitês de Bacia Hidrográfica"
+  },
+  {
+    "id":74,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "ordem":5,
+    "item":"Aspectos conceituais da gestão de Recursos Hídricos"
+  },
+  {
+    "id":75,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "ordem":6,
+    "item":"Instrumentos de Gestão de Recursos Hídricos"
+  },
+  {
+    "id":85,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":1,
+    "item":"Ciclo Hidrológico e Balanço Hídrico"
+  },
+  {
+    "id":86,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":2,
+    "item":"Elementos de Estatística Hidrológica"
+  },
+  {
+    "id":87,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":3,
+    "item":"Bacia Hidrográfica"
+  },
+  {
+    "id":88,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":4,
+    "item":"Precipitação, Interceptação"
+  },
+  {
+    "id":89,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":5,
+    "item":"Infiltração, Evaporação e Evapotranspiração"
+  },
+  {
+    "id":92,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":6,
+    "item":"Escoamento Superficial, Hidrograma Unitário"
+  },
+  {
+    "id":93,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":7,
+    "item":"Hidrograma Unitário Sintético"
+  },
+  {
+    "id":95,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":8,
+    "item":"Curva Chave e Regularização de vazões"
+  },
+  {
+    "id":96,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":9,
+    "item":"Vazões Caracteríticas, Curva de Permanência"
+  },
+  {
+    "id":98,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "ordem":10,
+    "item":"Noções sobre Águas Subterrâneas"
+  },
+  {
+    "id":100,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":1,
+    "item":"Breve histórico sobre tempo e clima, Consequências Meteorológicas dos Movimentos da Terra"
+  },
+  {
+    "id":101,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":2,
+    "item":"Estações Meteorológicas"
+  },
+  {
+    "id":102,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":3,
+    "item":"A Atmosfera da Terra"
+  },
+  {
+    "id":103,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":4,
+    "item":"Fatores e Elementos Climáticos"
+  },
+  {
+    "id":104,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":7,
+    "item":"Tipos e Principais Classificações Climáticas"
+  },
+  {
+    "id":105,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":8,
+    "item":"Principais Aspectos da Climatologia no Brasil e Climas Regionais"
+  },
+  {
+    "id":106,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":9,
+    "item":"O clima e o meio ambiente"
+  },
+  {
+    "id":107,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":10,
+    "item":"Variações e Mudanças Climáticas"
+  },
+  {
+    "id":108,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":1,
+    "item":"Avaliação de impactos Ambientais – AIA: Impactos Ambientais: conceitos e definições"
+  },
+  {
+    "id":109,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":2,
+    "item":"Ações, processos e impactos ambientais: particularidades quanto a abordagem em grandes e pequenos empreendimentos: Avaliação e contabilizarão em impactos ambientais"
+  },
+  {
+    "id":110,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":3,
+    "item":"Indicadores e propriedades dos fatores ambientais (físico, biótico e sócio-econômico e cultural)"
+  },
+  {
+    "id":111,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":4,
+    "item":"Política e Legislação em AIA: (Nacional, Estadual e Municipal)"
+  },
+  {
+    "id":112,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":5,
+    "item":"Elaboração de documentos para Licenciamento Ambiental: Diagnóstico, Prognóstico, Medidas Ambientais, Programas Básicos Ambientais e outros subelementos básicos"
+  },
+  {
+    "id":113,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":6,
+    "item":"Classificação qualitativa e quantitativa de impactos ambientais"
+  },
+  {
+    "id":114,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":7,
+    "item":"Medidas ambientais e suas relações com o monitoramento e a gestão ambiental"
+  },
+  {
+    "id":115,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":8,
+    "item":"Métodos de avaliação de impactos ambientais"
+  },
+  {
+    "id":116,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":9,
+    "item":"Elaboração de Programas Básicos Ambientais - PBAs: planejamento setorial, ordenamento territorial, compensação ambiental em empreendimentos de grande e pequeno porte"
+  },
+  {
+    "id":117,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "ordem":10,
+    "item":"Estudos de casos: impactos ambientais aos meios urbano e rural"
+  },
+  {
+    "id":118,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "ordem":1,
+    "item":"Características do meio físico e biológico"
+  },
+  {
+    "id":119,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "ordem":2,
+    "item":"Formas de representação e apresentação das informações das características ambientais"
+  },
+  {
+    "id":120,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "ordem":3,
+    "item":"Caracterização ambiental e sua aplicação em uma bacia hidrográfica"
+  },
+  {
+    "id":121,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "ordem":4,
+    "item":"Determinação das suscetibilidades e vocações do meio ambiente"
+  },
+  {
+    "id":123,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "ordem":2,
+    "item":"Ecossistemas brasileiros e suas características"
+  },
+  {
+    "id":124,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "ordem":3,
+    "item":"Estudo da ecologia de populações: métodos de estudos de densidade, estrutura e dinâmica das populações"
+  },
+  {
+    "id":126,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "ordem":1,
+    "item":"Recursos naturais e crescimento populacional"
+  },
+  {
+    "id":127,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "ordem":2,
+    "item":"Conceitos: recursos naturais, tipos de recursos naturais, fontes e reservas de recursos naturais"
+  },
+  {
+    "id":128,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "ordem":3,
+    "item":"Importância dos recursos naturais na manutenção da vida"
+  },
+  {
+    "id":129,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "ordem":4,
+    "item":"Manejo e conservação dos recursos naturais: solo, água, biodiversidade, minerais e energéticos"
+  },
+  {
+    "id":130,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "ordem":5,
+    "item":"Unidades de Conservação"
+  },
+  {
+    "id":131,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "ordem":6,
+    "item":"Código Florestal"
+  },
+  {
+    "id":132,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "ordem":7,
+    "item":"Manejo dos resíduos como fator de conservação dos recursos naturais"
+  },
+  {
+    "id":133,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "ordem":1,
+    "item":"Apresentar conceitos, estudos e bases da microbiologia e ecologia de microrganismos; e as bases para o manejo de microrganismos nos ecossistemas"
+  },
+  {
+    "id":134,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "ordem":2,
+    "item":"Caracterizar os compartimentos ambientais (solo, agua, ar) do ponto de vista da microbiota"
+  },
+  {
+    "id":135,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "ordem":3,
+    "item":"Estabelecer os principios de manejo da Microbiologia Sanitária, e aplicar a microbiologia em sistemas de tratamento, monitoramento de água e solos; e no tratamento de resíduos e efluentes"
+  },
+  {
+    "id":136,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "ordem":4,
+    "item":"Estabelecer as bases para a biorremediação de efluentes industriais utilizando microrganismos"
+  },
+  {
+    "id":137,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "ordem":5,
+    "item":"Instrumentar em pesquisas e aplicações da microbiologia na biotecnologia verde, especialmente em biocombustíveis"
+  },
+  {
+    "id":138,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "ordem":1,
+    "item":"Introdução à química ambiental"
+  },
+  {
+    "id":139,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "ordem":2,
+    "item":"Ar e energia"
+  },
+  {
+    "id":140,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "ordem":3,
+    "item":"Substâncias tóxicas"
+  },
+  {
+    "id":141,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "ordem":4,
+    "item":"Água"
+  },
+  {
+    "id":142,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "ordem":5,
+    "item":"Gerenciamento de resíduos tóxicos e solos contaminados"
+  },
+  {
+    "id":143,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "ordem":6,
+    "item":"Química verde"
+  },
+  {
+    "id":144,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":1,
+    "item":"Conceituação"
+  },
+  {
+    "id":145,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":2,
+    "item":"Caracterização de áreas degradadas"
+  },
+  {
+    "id":146,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":3,
+    "item":"Recuperação e restauração de ambientes degradados"
+  },
+  {
+    "id":147,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":4,
+    "item":"Fontes e efeitos da degradação de ambientes considerando os diferentes compartimentos ambientais"
+  },
+  {
+    "id":148,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":5,
+    "item":"Graus de degradação e funções dos compartimentos ambientais"
+  },
+  {
+    "id":149,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":6,
+    "item":"Objetivos da recuperação ou restauração de ambientes degradados (RAD)"
+  },
+  {
+    "id":150,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":7,
+    "item":"Métodos e aplicações da Engenharia Convencional e Reabilitação de ambientes degradados: Escolha de métodos para diferentes graus de degradação"
+  },
+  {
+    "id":151,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":8,
+    "item":"Princípios de bioengenharia aplicada aos processos de RAD"
+  },
+  {
+    "id":152,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":9,
+    "item":"Métodos e uso da fitorremediação e biorremediação em ambientes degradados.; funcionalidade e escolha de espécies vegetais na RAD"
+  },
+  {
+    "id":153,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":10,
+    "item":"Recomposição de matas ripárias e corredores ecológicos"
+  },
+  {
+    "id":154,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":11,
+    "item":"Sistemas agroflorestais como instrumento de RAD"
+  },
+  {
+    "id":155,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":12,
+    "item":"Monitoramento de processos de RAD"
+  },
+  {
+    "id":156,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "ordem":13,
+    "item":"Atividades potencialmente degradantes: estudos de caso."
+  },
+  {
+    "id":157,
+    "disc_id":107,
+    "disc_nome":"Recursos Energéticos I",
+    "ordem":1,
+    "item":"Recursos Energéticos Tradicionais"
+  },
+  {
+    "id":158,
+    "disc_id":107,
+    "disc_nome":"Recursos Energéticos I",
+    "ordem":2,
+    "item":"Sistemas e Métodos de Conversão e Conservação de Energia (métodos tradicionais)"
+  },
+  {
+    "id":159,
+    "disc_id":107,
+    "disc_nome":"Recursos Energéticos I",
+    "ordem":3,
+    "item":"Impactos Energéticos Ambientais (métodos tradicionais)"
+  },
+  {
+    "id":160,
+    "disc_id":107,
+    "disc_nome":"Recursos Energéticos I",
+    "ordem":4,
+    "item":"Eficientização Ambiental de Sistemas Energéticos (tecnologias alternativas)."
+  },
+  {
+    "id":161,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "ordem":1,
+    "item":"Apresentar e elaborar conceitos básicos em vigilância à saúde, especialmente conceitos de saúde, doença, risco, perigo e vigilância voltados ao estudo da questão saúde humana e relação ambiente-saúde humana"
+  },
+  {
+    "id":162,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "ordem":2,
+    "item":"Propor, pesquisar e elaborar modelos, protocolos e exemplos de estudos em indicadores ambientais de saúde"
+  },
+  {
+    "id":163,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "ordem":3,
+    "item":"Diagnóstico de relação ambiente-saude (baseado em modelos DPSIR ou FMPEEEA)"
+  },
+  {
+    "id":164,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "ordem":4,
+    "item":"Avaliação de impactos a saúde (HIA)"
+  },
+  {
+    "id":165,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "ordem":5,
+    "item":"Avaliação de risco à saúde (ARS)."
+  },
+  {
+    "id":166,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":1,
+    "item":"Crescimento populacional e solo"
+  },
+  {
+    "id":167,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":2,
+    "item":"Funções do solo"
+  },
+  {
+    "id":168,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":3,
+    "item":"Fatores e processos de formação do solo"
+  },
+  {
+    "id":169,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":4,
+    "item":"Atributos diagnóstico, horizontes e classificação do solo"
+  },
+  {
+    "id":170,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":5,
+    "item":"Características físicas do solo"
+  },
+  {
+    "id":171,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":1,
+    "item":"Licenciamento Ambiental – LA: conceitos e definições"
+  },
+  {
+    "id":172,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":2,
+    "item":"Instrumentos de identificação e análise em LA"
+  },
+  {
+    "id":173,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":3,
+    "item":"Identificação e caracterização de empreendimentos poluidores e passiveis de licenciamento ambiental"
+  },
+  {
+    "id":174,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":4,
+    "item":"Legislação Pertinente ao LA"
+  },
+  {
+    "id":175,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":5,
+    "item":"COEMA: Outorga de água, Reserva Legal e LA"
+  },
+  {
+    "id":176,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":6,
+    "item":"Análise e Elaboração de Termos de Referência (Federal, Estadual e Municipal); considerando as particularidades do empreendimento (0pequeno e grande porte)"
+  },
+  {
+    "id":177,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":7,
+    "item":"Etapas de elaboração e aprovação de um documento de licenciamento ambiental"
+  },
+  {
+    "id":178,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":8,
+    "item":"Diferentes tipos de documentos de LA"
+  },
+  {
+    "id":179,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":9,
+    "item":"Equipe elaboradora"
+  },
+  {
+    "id":180,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":10,
+    "item":"Audiências públicas: atores sociais e tomada de decisão"
+  },
+  {
+    "id":181,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":11,
+    "item":"Elaboração de parecer técnico de Estudos para licenciamento ambiental"
+  },
+  {
+    "id":182,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "ordem":12,
+    "item":"Estudos de Caso"
+  },
+  {
+    "id":183,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":1,
+    "item":"Fundamentos da Administração;"
+  },
+  {
+    "id":184,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":2,
+    "item":"As Funções Administrativas"
+  },
+  {
+    "id":185,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":3,
+    "item":"Gestão Organizacional frente aos novos paradigmas"
+  },
+  {
+    "id":186,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":4,
+    "item":"Introdução à teoria e aplicações à engenharia de: organizações;"
+  },
+  {
+    "id":187,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":5,
+    "item":"inovações, tecnológicas;"
+  },
+  {
+    "id":188,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":6,
+    "item":"estratégias competitivas;"
+  },
+  {
+    "id":189,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":7,
+    "item":"marketing;"
+  },
+  {
+    "id":190,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":8,
+    "item":"planejamento e controle da produção;"
+  },
+  {
+    "id":191,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":9,
+    "item":"custos."
+  },
+  {
+    "id":192,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":10,
+    "item":"Agregação de valores a cadeia produtiva, gerenciamento de pessoal e processos"
+  },
+  {
+    "id":193,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "ordem":11,
+    "item":"Introdução à teoria e aplicações ao Tecnologo em Meio Ambiente"
+  },
+  {
+    "id":194,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "ordem":1,
+    "item":"Origem da vida e teoria da Evolução"
+  },
+  {
+    "id":195,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "ordem":2,
+    "item":"Química da vida: Macromoléculas biológicas"
+  },
+  {
+    "id":196,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "ordem":3,
+    "item":"A célula: Estrutura, Função e Evolução; Organização; Tamanho e Forma Celular"
+  },
+  {
+    "id":197,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "ordem":4,
+    "item":"Diversidade biológica dos organismos vivos: Eubacteria, Archaebacteria, Archaezoa, Protozoa, Chromista, Plantae, Fungi e Animalia"
+  },
+  {
+    "id":198,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "ordem":5,
+    "item":"Evolução e genética: processos de geração de espécies."
+  },
+  {
+    "id":199,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":1,
+    "item":"Pressupostos de Direito Ambiental"
+  },
+  {
+    "id":200,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":2,
+    "item":"Legislação, conhecimento das leis internacionais ambientais"
+  },
+  {
+    "id":201,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":3,
+    "item":"Implementação das leis no Brasil"
+  },
+  {
+    "id":202,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":4,
+    "item":"Problemas de aplicação e eficácia das leis. Atuação e atribuições do Ministério Público."
+  },
+  {
+    "id":203,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":5,
+    "item":"Mecanismos Jurídicos de preservação, defesa e conservação do meio ambiente"
+  },
+  {
+    "id":204,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":6,
+    "item":"Crime ecológico e sanção punitiva - Lei de crimes ambientais (Lei 9605/98)"
+  },
+  {
+    "id":205,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":7,
+    "item":"A estrutura social e o meio ambiente"
+  },
+  {
+    "id":206,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":8,
+    "item":"Movimento sociais e Políticos Ambiental"
+  },
+  {
+    "id":207,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":1,
+    "item":"Erros em química analítica e Preparação de amostras."
+  },
+  {
+    "id":208,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":2,
+    "item":"Métodos Gravimétricos de Análise."
+  },
+  {
+    "id":209,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":3,
+    "item":"Equilíbrio ácido-base."
+  },
+  {
+    "id":210,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":4,
+    "item":"Volumetria de Neutralização."
+  },
+  {
+    "id":211,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":5,
+    "item":"Equilíbrio de solubilidade."
+  },
+  {
+    "id":212,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":6,
+    "item":"Volumetria de Precipitação."
+  },
+  {
+    "id":213,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":7,
+    "item":"Introdução à Eletroquímica.  Equilíbrio de Oxidação-redução."
+  },
+  {
+    "id":214,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":8,
+    "item":"Volumetria de Oxi-redução – Permanganimetria -  Iodometria."
+  },
+  {
+    "id":215,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":9,
+    "item":"Equilíbrio de Complexação"
+  },
+  {
+    "id":216,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "ordem":10,
+    "item":"Volumetria de complexação"
+  },
+  {
+    "id":217,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":1,
+    "item":"Estrutura Eletrônica dos átomos"
+  },
+  {
+    "id":218,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":2,
+    "item":"Propriedades Periódicas dos Elementos"
+  },
+  {
+    "id":219,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":3,
+    "item":"Ligação Química e Estrutura Molecular"
+  },
+  {
+    "id":220,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":4,
+    "item":"Cálculos usando Fórmulas e Equações Químicas"
+  },
+  {
+    "id":221,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":5,
+    "item":"Gases"
+  },
+  {
+    "id":222,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":6,
+    "item":"Soluções e Propriedades Coligativas"
+  },
+  {
+    "id":223,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":7,
+    "item":"Ácidos, Bases e Sais. Reações em solução Aquosa"
+  },
+  {
+    "id":224,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":8,
+    "item":"Cinética Química"
+  },
+  {
+    "id":225,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "ordem":9,
+    "item":"Equilíbrio Químico"
+  },
+  {
+    "id":226,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":1,
+    "item":"Revisão sobre nomenclatura, aspectos estruturais e propriedades físicas de hidrocarbonetos, compostos aromáticos, alcoóis, fenóis, éteres, haletos orgânicos e compostos carbonílicos."
+  },
+  {
+    "id":227,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":2,
+    "item":"Alcanos e Cicloalcanos. Análise conformacional dos alcanos cíclicos e acíclicos."
+  },
+  {
+    "id":228,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":3,
+    "item":"Estereoquímica."
+  },
+  {
+    "id":229,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":4,
+    "item":"Reações de Adição a alcenos."
+  },
+  {
+    "id":230,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":5,
+    "item":"Substituição Eletrofílica Aromática."
+  },
+  {
+    "id":231,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":6,
+    "item":"Principais Reações de álcoois e haletos de Alquila."
+  },
+  {
+    "id":232,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":7,
+    "item":"Aldeídos e cetonas: Adição Nucleofílica à Carbonila"
+  },
+  {
+    "id":233,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":8,
+    "item":"Ácidos carboxílicos e seus derivados. Adição nucleofílica acílica"
+  },
+  {
+    "id":234,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "ordem":9,
+    "item":"Reações com aminas."
+  },
+  {
+    "id":235,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "ordem":1,
+    "item":"A pesquisa científica: bibliográfica, experimental e outras"
+  },
+  {
+    "id":236,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "ordem":2,
+    "item":"Tipos de projetos de pesquisa segundo normatização da ABNT, inclusive modelos eletrônicos"
+  },
+  {
+    "id":237,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "ordem":3,
+    "item":"Definição do tema a ser desenvolvido como Trabalho de Conclusão de Curso e elaboração da proposta do Projeto de Pesquisa"
+  },
+  {
+    "id":238,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "ordem":4,
+    "item":"Elaboração de pré-projeto de trabalho científico e/ou tecnológico envolvendo temas abrangidos pelo curso de engenharia ambiental"
+  },
+  {
+    "id":239,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "ordem":1,
+    "item":"Trabalho monográfico: conceitos"
+  },
+  {
+    "id":240,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "ordem":2,
+    "item":"Fontes de Dados para o desenvolvimento do TCC"
+  },
+  {
+    "id":241,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "ordem":3,
+    "item":"Estrutura do Trabalho Monográfico segundo normas, características e estrutura estabelecidas no PPC do Curso de Engenharia Ambiental"
+  },
+  {
+    "id":242,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "ordem":4,
+    "item":"Desenvolvimento e finalização do trabalho iniciado na disciplina de trabalho de cconclusão de curso I"
+  },
+  {
+    "id":243,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "ordem":5,
+    "item":"Normas e diretrizes para apresentação e defesa pública de trabalho de conclusão de curso"
+  },
+  {
+    "id":244,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":1,
+    "item":"Conceitos de risco ambiental"
+  },
+  {
+    "id":245,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":2,
+    "item":"Tipos e intensidades de riscos ambientais"
+  },
+  {
+    "id":246,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":3,
+    "item":"Metodologias de avaliação do risco ambiental"
+  },
+  {
+    "id":247,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":7,
+    "item":"Planos contingência"
+  },
+  {
+    "id":248,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":5,
+    "item":"Estudo de caso: papeleira, curtume, combustíveis, agroindústria"
+  },
+  {
+    "id":250,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":6,
+    "item":"Análise em grande escala e pequena escala"
+  },
+  {
+    "id":253,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":10,
+    "item":"Contabilidade de recursos naturais"
+  },
+  {
+    "id":254,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":11,
+    "item":"Métodos de Prevenção"
+  },
+  {
+    "id":255,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":4,
+    "item":"Análise Qualitativa e Quantitativa do Risco"
+  },
+  {
+    "id":256,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":5,
+    "item":"Risco no ambiente externo e interno"
+  },
+  {
+    "id":257,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":14,
+    "item":"Agentes agressores"
+  },
+  {
+    "id":258,
+    "disc_id":138,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "ordem":15,
+    "item":"Avaliação da Exposição da percepção e da comunicação de riscos"
+  },
+  {
+    "id":259,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":1,
+    "item":"Sistemas de informações geográficas"
+  },
+  {
+    "id":260,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":2,
+    "item":"Tipos de dados geográficos"
+  },
+  {
+    "id":261,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":3,
+    "item":"Representações computacionais do espaço geográfico"
+  },
+  {
+    "id":262,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":4,
+    "item":"Modelagem de dados em geoprocessamento"
+  },
+  {
+    "id":263,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":5,
+    "item":"Cartografia para sistemas de informação geográfica"
+  },
+  {
+    "id":264,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":6,
+    "item":"Modelagem Numérica de Terreno. Imagens digitais"
+  },
+  {
+    "id":265,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":7,
+    "item":"Histograma de imagens digitais"
+  },
+  {
+    "id":266,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":8,
+    "item":"Noções de cores"
+  },
+  {
+    "id":267,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":9,
+    "item":"Realce de contraste de imagens digitais"
+  },
+  {
+    "id":268,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":10,
+    "item":"Registro de imagens"
+  },
+  {
+    "id":269,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":11,
+    "item":"Produção de mapas"
+  },
+  {
+    "id":270,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":1,
+    "item":"Gestão de projetos"
+  },
+  {
+    "id":271,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":2,
+    "item":"Partes constituintes de um projeto de engenharia"
+  },
+  {
+    "id":272,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":3,
+    "item":"Áreas de conhecimento em gerenciamento de projetos"
+  },
+  {
+    "id":273,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":4,
+    "item":"Características do Gerente de Projeto"
+  },
+  {
+    "id":274,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":5,
+    "item":"Fases e Ciclo de Vida de Um Projeto"
+  },
+  {
+    "id":275,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":6,
+    "item":"Influências Organizacionais nos projetos"
+  },
+  {
+    "id":276,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":7,
+    "item":"Definição e tipos de Projetos de engenharia"
+  },
+  {
+    "id":277,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":8,
+    "item":"Linhas básicas da elaboração de uma proposta"
+  },
+  {
+    "id":278,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":9,
+    "item":"Técnicas de elaboração e desenho de projetos de engenharia"
+  },
+  {
+    "id":279,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":10,
+    "item":"Estratégias de captação de recursos financeiros"
+  },
+  {
+    "id":280,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "ordem":11,
+    "item":"Oficina de projetos de engenharia"
+  },
+  {
+    "id":281,
+    "disc_id":120,
+    "disc_nome":"Estágio Curricular Supervionado",
+    "ordem":1,
+    "item":"Treinamento e experiência pré-profissional do estudante  dentro das áreas de atuação do Engenharia Ambiental"
+  },
+  {
+    "id":282,
+    "disc_id":120,
+    "disc_nome":"Estágio Curricular Supervionado",
+    "ordem":2,
+    "item":"Contato com o mercado de trabalho. Supervisionado por profissional de Engenharia e acompanhamento por professor orientador do Curso"
+  },
+  {
+    "id":283,
+    "disc_id":120,
+    "disc_nome":"Estágio Curricular Supervionado",
+    "ordem":3,
+    "item":"Empresas públicas e privadas que demandam o profissional da Engenharia Ambiental."
+  },
+  {
+    "id":284,
+    "disc_id":120,
+    "disc_nome":"Estágio Curricular Supervionado",
+    "ordem":4,
+    "item":"Desenvolver trabalhos profissionais e relatórios técnicos na área de Engenharia Ambiental"
+  },
+  {
+    "id":285,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":1,
+    "item":"Introdução"
+  },
+  {
+    "id":286,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":2,
+    "item":"Conceitos Fundamentais"
+  },
+  {
+    "id":287,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":3,
+    "item":"Condutibilidade Térmica e Difusibilidade dos Fluidos"
+  },
+  {
+    "id":288,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":4,
+    "item":"Estática dos Fluidos"
+  },
+  {
+    "id":289,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":5,
+    "item":"Equações Básicas para um Volume de Controle"
+  },
+  {
+    "id":290,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":6,
+    "item":"Movimentos de Fluidos"
+  },
+  {
+    "id":291,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":7,
+    "item":"Escoamento Incompressível de Fluidos não Viscosos"
+  },
+  {
+    "id":292,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":8,
+    "item":"Análise Dimensional"
+  },
+  {
+    "id":293,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":9,
+    "item":"Escoamento Interno Viscoso, Incompressível"
+  },
+  {
+    "id":294,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "ordem":11,
+    "item":"Medição de Vazão e Máquinas de Fluxo"
+  },
+  {
+    "id":295,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":1,
+    "item":"Sistemas de informações geográficas"
+  },
+  {
+    "id":296,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":2,
+    "item":"Tipos de dados geográficos"
+  },
+  {
+    "id":297,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":3,
+    "item":"Representações computacionais do espaço geográfico"
+  },
+  {
+    "id":298,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":4,
+    "item":"Modelagem de dados em geoprocessamento"
+  },
+  {
+    "id":299,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":5,
+    "item":"Cartografia para sistemas de informação geográfica"
+  },
+  {
+    "id":300,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":6,
+    "item":"Modelagem Numérica de Terreno"
+  },
+  {
+    "id":301,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":7,
+    "item":"Imagens digitais"
+  },
+  {
+    "id":302,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":8,
+    "item":"Histograma de imagens digitais"
+  },
+  {
+    "id":303,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":9,
+    "item":"Noções de cores"
+  },
+  {
+    "id":304,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":10,
+    "item":"Realce de contraste de imagens digitais"
+  },
+  {
+    "id":305,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":11,
+    "item":"Registro de imagens"
+  },
+  {
+    "id":306,
+    "disc_id":101,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "ordem":12,
+    "item":"Produção de mapas"
+  },
+  {
+    "id":307,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":1,
+    "item":"Máquinas agrícolas. Características e impactos Ambientais"
+  },
+  {
+    "id":308,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":2,
+    "item":"Motores de Combustão Interna. Princípio"
+  },
+  {
+    "id":309,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":3,
+    "item":"Máquinas elétricas: Motores elétricos, geradores e alternadores"
+  },
+  {
+    "id":310,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":4,
+    "item":"Equipamentos: caldeiras, fornalhas, reatores: nuclear e à gás. Impactos Ambientais"
+  },
+  {
+    "id":311,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":5,
+    "item":"Máquinas de Fluxo. Bombas (centrifugas e deslocamento positivo), ventiladores, Turbinas e compressores"
+  },
+  {
+    "id":312,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":6,
+    "item":"Processos de fabricação, usinagem, dobramento, conformação de metais"
+  },
+  {
+    "id":313,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":7,
+    "item":"Noções sobre fundição, soldagem. Dimensionamento e seleção de acoplamentos"
+  },
+  {
+    "id":314,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":8,
+    "item":"Equipamentos para controle ambiental"
+  },
+  {
+    "id":315,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":9,
+    "item":"Equipamentos para reciclagem de materiais: Moinhos, prensas e separadores"
+  },
+  {
+    "id":316,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "ordem":10,
+    "item":"Engenharia de manutenção corretiva e preventiva. Problemas ocasionados no meio ambiente decorrentes da falta de manutenção"
+  },
+  {
+    "id":317,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":1,
+    "item":"Conceitos, procedimentos e técnicas em perícia ambiental"
+  },
+  {
+    "id":318,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":2,
+    "item":"Instalação dos processos de perícia ambiental"
+  },
+  {
+    "id":319,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":3,
+    "item":"Necessidades e responsabilidade social"
+  },
+  {
+    "id":320,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":4,
+    "item":"Responsabilidade civil na degradação e danos ambientais"
+  },
+  {
+    "id":321,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":5,
+    "item":"Perícia e Ações Civis Públicas"
+  },
+  {
+    "id":322,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":6,
+    "item":"Perícia ambiental e o Engenheiro Ambiental"
+  },
+  {
+    "id":323,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":7,
+    "item":"Valoração, estimativas e consequências ambientais"
+  },
+  {
+    "id":324,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":8,
+    "item":"Prova pericial, sanções e honorários"
+  },
+  {
+    "id":325,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":9,
+    "item":"Documentos periciais, quesitos e laudos técnicos"
+  },
+  {
+    "id":326,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "ordem":10,
+    "item":"Estudos de caso"
+  },
+  {
+    "id":327,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":1,
+    "item":"Poluentes e contaminantes"
+  },
+  {
+    "id":328,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":2,
+    "item":"Principais fontes poluidoras da água, do solo e do ar"
+  },
+  {
+    "id":329,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":3,
+    "item":"Qualidade ambiental"
+  },
+  {
+    "id":330,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":4,
+    "item":"Efeito dos contaminantes sobre o homem e o meio ambiente"
+  },
+  {
+    "id":331,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":5,
+    "item":"Poluição da água, do solo e do ar"
+  },
+  {
+    "id":332,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":6,
+    "item":"Degradação dos compartimentos ambientais: água, solo e ar"
+  },
+  {
+    "id":333,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":7,
+    "item":"Métodos de determinação"
+  },
+  {
+    "id":334,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":8,
+    "item":"Critérios, padrões de emissão e de qualidade da água, solo e ar"
+  },
+  {
+    "id":335,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":9,
+    "item":"Legislação ambiental a nível de padrões de emissão e qualidade"
+  },
+  {
+    "id":336,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":10,
+    "item":"Efeitos negativos da poluição sonora"
+  },
+  {
+    "id":337,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "ordem":11,
+    "item":"Controle da poluição ambiental"
+  },
+  {
+    "id":338,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":1,
+    "item":"Princípios gerais. Vínculos Estruturais.Estrutura"
+  },
+  {
+    "id":339,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":2,
+    "item":"Equilibrio de Forças e Momentos.Força Normal"
+  },
+  {
+    "id":340,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":3,
+    "item":"Carga Distribuída. Linha de ação da Resultante"
+  },
+  {
+    "id":341,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":4,
+    "item":"Tração e Compressão. Tensão Normal. Lei de Hooke. Dimensionamento"
+  },
+  {
+    "id":342,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":5,
+    "item":"Treliças Planas. Método dos nós e de Ritter. Dimensionamento"
+  },
+  {
+    "id":343,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":6,
+    "item":"Cisalhamento Puro. Tensão de Cisalhamento. Pressão de contato.Dimensionamento"
+  },
+  {
+    "id":344,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":7,
+    "item":"Força Cortante e Momento Fletor. Diagramas"
+  },
+  {
+    "id":345,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":8,
+    "item":"Flexão. Tensão Normal na Flexão. Dimensionamento na Flexão"
+  },
+  {
+    "id":346,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":9,
+    "item":"Torção. Potência. Tensaõ de Cisalhamento na Torção. Distorção. Ângulo de Torção. Dimensionamento de Eixos-Árvore"
+  },
+  {
+    "id":347,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "ordem":10,
+    "item":"Flambagem. Carga Crítica. Indice de esbeltez. Tensão crítica. Normas. Dimensionamento e verificação estrutural"
+  },
+  {
+    "id":348,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":1,
+    "item":"Conceitos de risco ambiental"
+  },
+  {
+    "id":349,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":2,
+    "item":"Tipos e intensidades de riscos ambientais"
+  },
+  {
+    "id":351,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":4,
+    "item":"Metodologias de avaliação do risco ambiental"
+  },
+  {
+    "id":354,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":3,
+    "item":"Técnicas de identificação de perigos"
+  },
+  {
+    "id":355,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":5,
+    "item":"Análise qualitativa e quantitativa do risco"
+  },
+  {
+    "id":358,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":7,
+    "item":"Métodos de prevenção e planos de emergência"
+  },
+  {
+    "id":359,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":6,
+    "item":"Avaliação da exposição da percepção e da comunicação de riscos"
+  },
+  {
+    "id":360,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":8,
+    "item":"Estudo de caso: Agroindústrias, Combustíveis, Curtumes e Papeleiras"
+  },
+  {
+    "id":361,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":9,
+    "item":"Aspectos gerais do acidente e segurança do trabalho"
+  },
+  {
+    "id":364,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":11,
+    "item":"Ambiente de trabalho e as doenças do trabalho"
+  },
+  {
+    "id":366,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":13,
+    "item":"Legislação trabalhista aplicada à segurança do trabalho"
+  },
+  {
+    "id":367,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":12,
+    "item":"Equipamentos de proteção individual e coletiva"
+  },
+  {
+    "id":368,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "ordem":14,
+    "item":"Sistema de Gestão Integrada (SGI), PCMSO, SESMT, PPRA e CIPA"
+  },
+  {
+    "id":370,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":1,
+    "item":"Introdução ao sensoriamento remoto"
+  },
+  {
+    "id":371,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":2,
+    "item":"Energia e matéria"
+  },
+  {
+    "id":372,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":3,
+    "item":"Interação atmosfera-radiação solar"
+  },
+  {
+    "id":373,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":4,
+    "item":"Níveis de aquisição de dados"
+  },
+  {
+    "id":374,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":5,
+    "item":"Sistemas sensores"
+  },
+  {
+    "id":375,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":6,
+    "item":"Sistemas sensores terrestres"
+  },
+  {
+    "id":376,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":7,
+    "item":"Sistemas sensores aéreos"
+  },
+  {
+    "id":377,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":8,
+    "item":"Sistemas sensores orbitais ópticos"
+  },
+  {
+    "id":378,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":9,
+    "item":"Microondas"
+  },
+  {
+    "id":379,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":10,
+    "item":"Sistemas sensores orbitais de microondas"
+  },
+  {
+    "id":380,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":11,
+    "item":"Comportamento espectral de rochas-solos-vegetação e água"
+  },
+  {
+    "id":381,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "ordem":12,
+    "item":"Metodologia de interpretação de imagens de satélite"
+  },
+  {
+    "id":382,
+    "disc_id":102,
+    "disc_nome":"Caracterização Ambiental II",
+    "ordem":1,
+    "item":"Indicadores socioeconômicos e ambientais."
+  },
+  {
+    "id":383,
+    "disc_id":102,
+    "disc_nome":"Caracterização Ambiental II",
+    "ordem":2,
+    "item":"Caracterização do conceito sistêmico de meio ambiente"
+  },
+  {
+    "id":384,
+    "disc_id":102,
+    "disc_nome":"Caracterização Ambiental II",
+    "ordem":3,
+    "item":"A questão socioambiental vista como objeto de investigação interdisciplinar e como problema social"
+  },
+  {
+    "id":385,
+    "disc_id":102,
+    "disc_nome":"Caracterização Ambiental II",
+    "ordem":4,
+    "item":"Diferentes representações da etiologia e das terapias possíveis para a crise socioambiental"
+  },
+  {
+    "id":386,
+    "disc_id":102,
+    "disc_nome":"Caracterização Ambiental II",
+    "ordem":5,
+    "item":"Emergência e evolução do paradigma da sustentabilidade no contexto das teorias do desenvolvimento e do planejamento"
+  },
+  {
+    "id":387,
+    "disc_id":102,
+    "disc_nome":"Caracterização Ambiental II",
+    "ordem":6,
+    "item":"Controvérsias relacionadas ao uso dos conceitos de ecodesenvolvimento, desenvolvimento sustentável e desenvolvimento viável no debate contemporâneo sobre a crise do meio ambiente"
+  },
+  {
+    "id":388,
+    "disc_id":102,
+    "disc_nome":"Caracterização Ambiental II",
+    "ordem":7,
+    "item":"Proposta de modelo de análise orientado para uma confrontação"
+  },
+  {
+    "id":389,
+    "disc_id":79,
+    "disc_nome":"Cartografia",
+    "ordem":1,
+    "item":"Definição e nomenclatura utilizada: elementos básicos, projeções cartográficas, escalas, coordenadas geográficas."
+  },
+  {
+    "id":390,
+    "disc_id":79,
+    "disc_nome":"Cartografia",
+    "ordem":2,
+    "item":"Empregos de mapas: noções gerais;"
+  },
+  {
+    "id":391,
+    "disc_id":79,
+    "disc_nome":"Cartografia",
+    "ordem":3,
+    "item":"finalidade e uso dos mapas;"
+  },
+  {
+    "id":392,
+    "disc_id":79,
+    "disc_nome":"Cartografia",
+    "ordem":4,
+    "item":"representação no espaço terrestre, processo de mapeamento."
+  },
+  {
+    "id":393,
+    "disc_id":79,
+    "disc_nome":"Cartografia",
+    "ordem":5,
+    "item":"Fundamentos Básicos para interpretação cartográfica."
+  },
+  {
+    "id":394,
+    "disc_id":79,
+    "disc_nome":"Cartografia",
+    "ordem":6,
+    "item":"Elaboração de cartogramas: uso da cor-rosa cromática, escalas de mensuração, leitura e interpretação de mapas temáticos."
+  },
+  {
+    "id":395,
+    "disc_id":86,
+    "disc_nome":"Cultura, Sociedade e Meio Ambiente",
+    "ordem":1,
+    "item":"Suportes teórico-metodológicos e conceituais: cultura, meio ambiente e desenvolvimento. Principais teorias do desenvolvimento."
+  },
+  {
+    "id":396,
+    "disc_id":86,
+    "disc_nome":"Cultura, Sociedade e Meio Ambiente",
+    "ordem":2,
+    "item":"Atividades antrópicas;"
+  },
+  {
+    "id":397,
+    "disc_id":86,
+    "disc_nome":"Cultura, Sociedade e Meio Ambiente",
+    "ordem":3,
+    "item":"Demanda de energia."
+  },
+  {
+    "id":398,
+    "disc_id":86,
+    "disc_nome":"Cultura, Sociedade e Meio Ambiente",
+    "ordem":4,
+    "item":"Avaliação do potencial de geração em uma região."
+  },
+  {
+    "id":399,
+    "disc_id":86,
+    "disc_nome":"Cultura, Sociedade e Meio Ambiente",
+    "ordem":5,
+    "item":"Principais impactos socioambientais do desenvolvimento"
+  },
+  {
+    "id":400,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":1,
+    "item":"Introdução ao desenho técnico."
+  },
+  {
+    "id":401,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":2,
+    "item":"Principais normas do Desenho Técnico, Instrumentos de Desenho ..... Desenho projetivo. Cortes."
+  },
+  {
+    "id":402,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":3,
+    "item":"Conceito de Escala.....Cotagem e dimensionamento."
+  },
+  {
+    "id":403,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":4,
+    "item":"Cotagem e dimensionamento.....Letras, algarismos e instrumentos de desenho."
+  },
+  {
+    "id":404,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":5,
+    "item":"Desenho projetivo......... e Cortes.....Algarismos e instrumentos de desenho."
+  },
+  {
+    "id":405,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":9,
+    "item":"Construções geométricas planas."
+  },
+  {
+    "id":407,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":8,
+    "item":"Cortes e suas representações............Estudo da reta."
+  },
+  {
+    "id":408,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":10,
+    "item":"Desenho computacional: noções dos principais aplicativos Sketup e AutoCad;"
+  },
+  {
+    "id":409,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":1,
+    "item":"Composição de efluentes domésticos"
+  },
+  {
+    "id":410,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":2,
+    "item":"Legislação pertinente ao lançamento de efluentes"
+  },
+  {
+    "id":411,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":3,
+    "item":"Sistemas de tratamentos (primário, secundário e terciário)"
+  },
+  {
+    "id":412,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":4,
+    "item":"Métodos de tratamento: físico; químico e biológico"
+  },
+  {
+    "id":413,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":5,
+    "item":"Tratamento preliminar."
+  },
+  {
+    "id":414,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":6,
+    "item":"Processos químicos e biológicos (tratamentos simplificados e convencionais)."
+  },
+  {
+    "id":415,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":7,
+    "item":"Tratamento e destino final do lodo."
+  },
+  {
+    "id":416,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":8,
+    "item":"Desinfecção."
+  },
+  {
+    "id":417,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":9,
+    "item":"Processos e avançados de tratamento de efluentes"
+  },
+  {
+    "id":418,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "ordem":10,
+    "item":"Reuso de efluentes"
+  },
+  {
+    "id":419,
+    "disc_id":131,
+    "disc_nome":"Metodologia Científica",
+    "ordem":1,
+    "item":"O conhecimento e seus níveis."
+  },
+  {
+    "id":420,
+    "disc_id":131,
+    "disc_nome":"Metodologia Científica",
+    "ordem":2,
+    "item":"Conceito de pesquisa e seus tipos."
+  },
+  {
+    "id":421,
+    "disc_id":131,
+    "disc_nome":"Metodologia Científica",
+    "ordem":3,
+    "item":"O método científico: os processos do metódo científico."
+  },
+  {
+    "id":422,
+    "disc_id":131,
+    "disc_nome":"Metodologia Científica",
+    "ordem":4,
+    "item":"Pesquisa bibliográfica, documental e experimental."
+  },
+  {
+    "id":423,
+    "disc_id":131,
+    "disc_nome":"Metodologia Científica",
+    "ordem":5,
+    "item":"Acesso e funcionabilidade dos portais virtuais de busca na rede mundial de computadores. Projeto de pesquisa: escolha do assunto a ser pesquisado, formulação dos problemas, estudos exploratórios, coleta, análise e discussão dos dados;"
+  },
+  {
+    "id":424,
+    "disc_id":131,
+    "disc_nome":"Metodologia Científica",
+    "ordem":6,
+    "item":"Elaboração do plano de trabalho; redação e apresentação do trabalho de pesquisa."
+  },
+  {
+    "id":425,
+    "disc_id":131,
+    "disc_nome":"Metodologia Científica",
+    "ordem":7,
+    "item":"Elaboração de trabalhos científicos conforme as normas da ABNT."
+  },
+  {
+    "id":426,
+    "disc_id":131,
+    "disc_nome":"Metodologia Científica",
+    "ordem":8,
+    "item":"Organização de artigos científicos para publicação."
+  },
+  {
+    "id":427,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":1,
+    "item":"Planejamento: conceitos, principios, tipos e fases do planejamento; A organização como sistema ; A mudança como parte da organização"
+  },
+  {
+    "id":428,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":2,
+    "item":"Planejamento Estratégico institucional e Processo de Tomada de Decisão"
+  },
+  {
+    "id":429,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":3,
+    "item":"Planejamento Ambiental: histórico, paradigmas, conceitos, estruturas e instrumentos"
+  },
+  {
+    "id":430,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":4,
+    "item":"Planejamento Ambiental com ênfase em Bacias Hidrográficas"
+  },
+  {
+    "id":431,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":6,
+    "item":"Planejamento como suporte a gestão de conflitos socioambientais e Metodologias participativas;"
+  },
+  {
+    "id":433,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":7,
+    "item":"Planejamento Urbano e Plano diretor municipal,"
+  },
+  {
+    "id":434,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":5,
+    "item":"Plano de manejo de Unidades de Conservação"
+  },
+  {
+    "id":435,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":8,
+    "item":"Zoneamento como Instrumento de Planejamento e Gestão Ambiental (Zoneamento Agrícola e Ambiental e  Zoneamento Econômico Ecológico – ZEE)"
+  },
+  {
+    "id":436,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "ordem":9,
+    "item":"Planejamento no contexto das Mudanças Climáticas e Mercado de Carbono"
+  },
+  {
+    "id":437,
+    "disc_id":76,
+    "disc_nome":"Probalidade e Estatística",
+    "ordem":2,
+    "item":"Organização de dados em Tabelas e Gráficos"
+  },
+  {
+    "id":438,
+    "disc_id":76,
+    "disc_nome":"Probalidade e Estatística",
+    "ordem":5,
+    "item":"Medidas estatísticas de Posição e Variabilidade"
+  },
+  {
+    "id":439,
+    "disc_id":76,
+    "disc_nome":"Probalidade e Estatística",
+    "ordem":3,
+    "item":"Distribuição de frequência sem intervalo de classe e com intervalo de classe"
+  },
+  {
+    "id":440,
+    "disc_id":76,
+    "disc_nome":"Probalidade e Estatística",
+    "ordem":4,
+    "item":"Introdução ao cálculo das probabilidades;"
+  },
+  {
+    "id":441,
+    "disc_id":76,
+    "disc_nome":"Probalidade e Estatística",
+    "ordem":6,
+    "item":"Distribuições teóricas de probabilidades;"
+  },
+  {
+    "id":442,
+    "disc_id":76,
+    "disc_nome":"Probalidade e Estatística",
+    "ordem":1,
+    "item":"Conceitos e aplicações de Estatística; Grandes áreas da Estatística; Dados estatísticos; População e Amostra; Técnicas de amostragem"
+  },
+  {
+    "id":443,
+    "disc_id":76,
+    "disc_nome":"Probalidade e Estatística",
+    "ordem":7,
+    "item":"Teste de hipóteses;"
+  },
+  {
+    "id":444,
+    "disc_id":76,
+    "disc_nome":"Probalidade e Estatística",
+    "ordem":8,
+    "item":"Correlação e Regressão linear simples."
+  },
+  {
+    "id":445,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":1,
+    "item":"Introdução aos Resíduos Sólidos."
+  },
+  {
+    "id":446,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":2,
+    "item":"Caracterização, levantamentos de dados e preparo de amostras;"
+  },
+  {
+    "id":447,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":3,
+    "item":"Definição de Resíduos Sólidos;"
+  },
+  {
+    "id":448,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":4,
+    "item":"Política nacional de resíduos Sólidos"
+  },
+  {
+    "id":449,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":5,
+    "item":"3R: Reciclagem, redução e reutilização;"
+  },
+  {
+    "id":450,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":6,
+    "item":"Limpeza Pública;"
+  },
+  {
+    "id":451,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":7,
+    "item":"Gerenciamento de Resíduos Sólidos: acondicionamento, coleta, transporte, transferência dos Resíduos;"
+  },
+  {
+    "id":452,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":8,
+    "item":"Principais formas de tratamento e disposição final dos resíduos sólidos: lixões, aterro sanitário; Projeto das unidades"
+  },
+  {
+    "id":453,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":9,
+    "item":"Tratamento Térmico: incineração, Pirólise, autoclavagem e microondas;"
+  },
+  {
+    "id":454,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "ordem":10,
+    "item":"Compostagem, Resíduos Perigosos. Projeto de uma unidade de compostagem"
+  },
+  {
+    "id":455,
+    "disc_id":88,
+    "disc_nome":"Topografia",
+    "ordem":1,
+    "item":"Introdução ao estudo da topografia."
+  },
+  {
+    "id":456,
+    "disc_id":88,
+    "disc_nome":"Topografia",
+    "ordem":2,
+    "item":"Instrumentos topográficos."
+  },
+  {
+    "id":457,
+    "disc_id":88,
+    "disc_nome":"Topografia",
+    "ordem":3,
+    "item":"Medidas lineares e angulares."
+  },
+  {
+    "id":458,
+    "disc_id":88,
+    "disc_nome":"Topografia",
+    "ordem":4,
+    "item":"Planímetria. Altiplanimetria."
+  },
+  {
+    "id":459,
+    "disc_id":88,
+    "disc_nome":"Topografia",
+    "ordem":5,
+    "item":"Estudo dos erros."
+  },
+  {
+    "id":460,
+    "disc_id":88,
+    "disc_nome":"Topografia",
+    "ordem":6,
+    "item":"Noções de topologia."
+  },
+  {
+    "id":461,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":1,
+    "item":"Estática dos Pontos Materiais"
+  },
+  {
+    "id":462,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":2,
+    "item":"Forças, Momentos e Princípios Fundamentais do Teorema de Varignon"
+  },
+  {
+    "id":463,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":3,
+    "item":"Estudo das condições de equilíbrio de partículas e de corpos rígidos no plano e no espaço"
+  },
+  {
+    "id":464,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":4,
+    "item":"Equilíbrio dos corpos rígidos"
+  },
+  {
+    "id":465,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":5,
+    "item":"Geometria de Massa"
+  },
+  {
+    "id":466,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":6,
+    "item":"Centro de gravidade de um corpo"
+  },
+  {
+    "id":467,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":7,
+    "item":"Teorema de Steiner"
+  },
+  {
+    "id":468,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":8,
+    "item":"Momento de inércia"
+  },
+  {
+    "id":469,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "ordem":9,
+    "item":"Raio de giração"
+  },
+  {
+    "id":470,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "ordem":1,
+    "item":"Fundamentos da energia elétrica e a instrumentação ambiental"
+  },
+  {
+    "id":472,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "ordem":1,
+    "item":"Sistemas de gestão da qualidade total"
+  },
+  {
+    "id":473,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "ordem":2,
+    "item":"Sistemas de gestão ambiental"
+  },
+  {
+    "id":474,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "ordem":3,
+    "item":"Auditoria ambiental"
+  },
+  {
+    "id":475,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "ordem":4,
+    "item":"Rotulagem ambiental"
+  },
+  {
+    "id":476,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "ordem":5,
+    "item":"Avaliação de desempenho ambiental"
+  },
+  {
+    "id":477,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "ordem":6,
+    "item":"Avaliação de ciclo de vida do produto"
+  },
+  {
+    "id":478,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "ordem":4,
+    "item":"Métodos de campo para estudos populacionais."
+  },
+  {
+    "id":479,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "ordem":1,
+    "item":"Conceitos básicos de ecologia, fatores limitantes e sucessão ecológica. teste ok"
+  },
+  {
+    "id":481,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "ordem":2,
+    "item":"Planejamento e Projeto de instalações elétricas"
+  },
+  {
+    "id":482,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "ordem":3,
+    "item":"Dimensionamento de condutores, eletrodutos e proteção"
+  },
+  {
+    "id":483,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "ordem":4,
+    "item":"Motores elétricos."
+  },
+  {
+    "id":484,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "ordem":7,
+    "item":"Medição e armazenamento de dados ambientais"
+  },
+  {
+    "id":485,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "ordem":5,
+    "item":"Variáveis ambientais e sua medição"
+  },
+  {
+    "id":486,
+    "disc_id":91,
+    "disc_nome":"Algoritmos e Estrutura de dados",
+    "ordem":1,
+    "item":"Introdução ao computador e a computação"
+  },
+  {
+    "id":487,
+    "disc_id":91,
+    "disc_nome":"Algoritmos e Estrutura de dados",
+    "ordem":2,
+    "item":"Programação e linguagens"
+  },
+  {
+    "id":488,
+    "disc_id":91,
+    "disc_nome":"Algoritmos e Estrutura de dados",
+    "ordem":3,
+    "item":"Variáveis e armazenamento de dados"
+  },
+  {
+    "id":489,
+    "disc_id":91,
+    "disc_nome":"Algoritmos e Estrutura de dados",
+    "ordem":4,
+    "item":"Estruturas de controle e repetição"
+  },
+  {
+    "id":490,
+    "disc_id":91,
+    "disc_nome":"Algoritmos e Estrutura de dados",
+    "ordem":5,
+    "item":"Leitura e escrita em arquivos"
+  },
+  {
+    "id":491,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":6,
+    "item":"Propriedades químicas do solo"
+  },
+  {
+    "id":492,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":7,
+    "item":"Acidez e correção do solo"
+  },
+  {
+    "id":493,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":8,
+    "item":"Fertilidade do solo"
+  },
+  {
+    "id":494,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":9,
+    "item":"Matéria orgânica do solo"
+  },
+  {
+    "id":495,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":10,
+    "item":"Análise de solo"
+  },
+  {
+    "id":496,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":11,
+    "item":"Interpretação de análise do solo"
+  },
+  {
+    "id":497,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":12,
+    "item":"Importância do solo no ciclo de alguns elementos minerais"
+  },
+  {
+    "id":498,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "ordem":13,
+    "item":"Manejo e Conservação do solo"
+  },
+  {
+    "id":499,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "ordem":6,
+    "item":"Mecânica e Eletrônica dos instrumentos"
+  },
+  {
+    "id":500,
+    "disc_id":91,
+    "disc_nome":"Algoritmos e Estrutura de dados",
+    "ordem":6,
+    "item":"Lógica de programação"
+  },
+  {
+    "id":501,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "ordem":1,
+    "item":"Precisão e erros em análise numérica"
+  },
+  {
+    "id":502,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "ordem":2,
+    "item":"Sistemas com equações lineares e não lineares"
+  },
+  {
+    "id":503,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "ordem":3,
+    "item":"Ajuste de modelos matemáticos a dados medidos"
+  },
+  {
+    "id":504,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "ordem":4,
+    "item":"Interpolação"
+  },
+  {
+    "id":505,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "ordem":5,
+    "item":"Raízes ou zeros de equações"
+  },
+  {
+    "id":506,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "ordem":6,
+    "item":"Integração numérica"
+  },
+  {
+    "id":507,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "ordem":7,
+    "item":"Sistemas de equações diferenciais e Diferenciação numérica"
+  },
+  {
+    "id":508,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "ordem":8,
+    "item":"Solução numérica de equações diferenciais ordinárias"
+  },
+  {
+    "id":509,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":6,
+    "item":"Circulação geral da atmosfera"
+  },
+  {
+    "id":510,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "ordem":5,
+    "item":"Equilíbrio atmosférico"
+  },
+  {
+    "id":515,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":2,
+    "item":"Histórico do movimento ambientalista."
+  },
+  {
+    "id":516,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":6,
+    "item":"Estudo do ponto e Estudo da Reta"
+  },
+  {
+    "id":517,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":1,
+    "item":"Engenharia ambiental: perfil profissional e mercado de trabalho."
+  },
+  {
+    "id":518,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":3,
+    "item":"Noções gerais de poluição ambiental e suas interferências no meio ambiente."
+  },
+  {
+    "id":519,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":4,
+    "item":"Noções gerais de degradação ambiental e suas interferências no meio ambiente."
+  },
+  {
+    "id":520,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":5,
+    "item":"Introdução ao saneamento básico: Água"
+  },
+  {
+    "id":521,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":6,
+    "item":"Introdução ao saneamento básico: Esgoto"
+  },
+  {
+    "id":522,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":7,
+    "item":"Introdução ao saneamento básico: Resíduos Sólidos"
+  },
+  {
+    "id":523,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":8,
+    "item":"Introdução ao saneamento básico: Drenagem Urbana"
+  },
+  {
+    "id":524,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":9,
+    "item":"Introdução ao Licenciamento Ambiental"
+  },
+  {
+    "id":525,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "ordem":10,
+    "item":"Noções de Legislação Ambiental"
+  },
+  {
+    "id":526,
+    "disc_id":108,
+    "disc_nome":"Educação Ambiental",
+    "ordem":1,
+    "item":"Principios da Educação Ambiental"
+  },
+  {
+    "id":527,
+    "disc_id":108,
+    "disc_nome":"Educação Ambiental",
+    "ordem":2,
+    "item":"Histórico da Educação Ambiental nas Conferências da ONU"
+  },
+  {
+    "id":528,
+    "disc_id":108,
+    "disc_nome":"Educação Ambiental",
+    "ordem":3,
+    "item":"Diretrizes da Tbilisi nos Programas de Educação Ambiental"
+  },
+  {
+    "id":529,
+    "disc_id":108,
+    "disc_nome":"Educação Ambiental",
+    "ordem":4,
+    "item":"A Evolução da Politica de Educação Ambiental no Brasil"
+  },
+  {
+    "id":530,
+    "disc_id":117,
+    "disc_nome":"Desenho Técnico",
+    "ordem":7,
+    "item":"Representação de sólidos no triedro, principais vistas e representação em épura"
+  },
+  {
+    "id":531,
+    "disc_id":108,
+    "disc_nome":"Educação Ambiental",
+    "ordem":5,
+    "item":"Elaboração de Projetos de Educação Ambiental"
+  },
+  {
+    "id":532,
+    "disc_id":120,
+    "disc_nome":"Estágio Curricular Supervionado",
+    "ordem":5,
+    "item":"Apresentar Relatório Final do Estágio e Avaliação realizada pela Empresa no final das 180 h."
+  },
+  {
+    "id":534,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":9,
+    "item":"Política Nacional de Meio Ambiente"
+  },
+  {
+    "id":535,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "ordem":10,
+    "item":"Conselho Nacional de Meio Ambiente (CONAMA). Os crimes ambientais e sua regulamentação penal, civil e administrativa."
+  },
+  {
+    "id":536,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":1,
+    "item":"Operações e processos em ETAs e ETEs para adequação de água e esgoto"
+  },
+  {
+    "id":537,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":2,
+    "item":"Gradeamento e Peneiramento"
+  },
+  {
+    "id":538,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":3,
+    "item":"Unidades de Mistura e Medição de Vazão"
+  },
+  {
+    "id":539,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":4,
+    "item":"Sedimentação de partículas discretas"
+  },
+  {
+    "id":540,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":5,
+    "item":"Precipitação química na remoção de contaminantes"
+  },
+  {
+    "id":541,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":6,
+    "item":"Coagulação e Floculação"
+  },
+  {
+    "id":542,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":7,
+    "item":"Sedimentação Floculenta"
+  },
+  {
+    "id":543,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":8,
+    "item":"Flotação por ar dissolvido"
+  },
+  {
+    "id":544,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":9,
+    "item":"Filtração em meios porosos"
+  },
+  {
+    "id":545,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":10,
+    "item":"Oxidação Química"
+  },
+  {
+    "id":546,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "ordem":11,
+    "item":"Processos Biológicos"
+  },
+  {
+    "id":547,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":1,
+    "item":"Concepção de Sistemas de Tratamento de Água em Função da Qualidade da Água Bruta"
+  },
+  {
+    "id":548,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":2,
+    "item":"Projeto de ETAs de Ciclo Completo com Emprego da Decantação ou da Flotação por ar Dissolvido para Clarificação"
+  },
+  {
+    "id":549,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":3,
+    "item":"Projeto de ETAs de Filtração Direta Descendente"
+  },
+  {
+    "id":550,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":4,
+    "item":"Projeto de ETAs de Filtração Direta Ascendente"
+  },
+  {
+    "id":551,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":5,
+    "item":"Projeto de ETAs de Dupla Filtração"
+  },
+  {
+    "id":552,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":6,
+    "item":"Projeto de ETAs por Floto-Filtração"
+  },
+  {
+    "id":553,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":7,
+    "item":"Projeto de ETAs de filtração em Múltiplas Etapas"
+  },
+  {
+    "id":554,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":8,
+    "item":"Desinfecção para água de consumo humano"
+  },
+  {
+    "id":555,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":9,
+    "item":"Adsorção em Carvão Ativado"
+  },
+  {
+    "id":556,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "ordem":10,
+    "item":"Tratamento dos Resíduos Gerados nas ETAs e Reuso da Água Recuperada"
+  },
+  {
+    "id":557,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":1,
+    "item":"Concepção de sistemas de abastecimento de água"
+  },
+  {
+    "id":558,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":2,
+    "item":"Normas para projeto de sistemas de abastecimento de água e tratamento de água"
+  },
+  {
+    "id":559,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":3,
+    "item":"Definição de Parâmetros de projetos (população, estimativa de vazões)"
+  },
+  {
+    "id":560,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":4,
+    "item":"Elaboração de Projeto hidráulico de diferentes sistemas de captação (elevatórias) de água bruta (barragem, balsa flutuante, poço de sucção). Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":561,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":5,
+    "item":"Elaboração de Projeto hidráulico de adutoras (tanto por gravidade como bombeadas). Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":562,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":6,
+    "item":"Elaboração de Projeto hidráulico de estação de tratamento de água. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":563,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":7,
+    "item":"Elaboração de Projeto hidráulico de reservatórios. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":564,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":8,
+    "item":"Elaboração de Projeto hidráulico de redes de distribuição de água. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":565,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":9,
+    "item":"Elaboração de Projeto de eficiência energética e redução de perdas em sistemas de abastecimento de água"
+  },
+  {
+    "id":566,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "ordem":10,
+    "item":"Elaboração de orçamento de sistemas de abastecimento de água"
+  },
+  {
+    "id":567,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":1,
+    "item":"Concepção de sistemas de Esgotamento Sanitário"
+  },
+  {
+    "id":568,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":2,
+    "item":"Normas para projeto de sistemas de esgotamento sanitário"
+  },
+  {
+    "id":569,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":3,
+    "item":"Definição de Parâmetros de projetos (população, estimativa de vazões)"
+  },
+  {
+    "id":570,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":4,
+    "item":"Elaboração de Projeto hidráulico de rede coletora de esgotos. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":571,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":5,
+    "item":"Elaboração de Projeto hidráulico de coletores troncos de esgotos. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":572,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":6,
+    "item":"Elaboração de Projeto hidráulico de Sifão Invertido. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":573,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":7,
+    "item":"Elaboração de Projeto hidráulico de estação elevatória e linha de recalque de esgoto. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":574,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":8,
+    "item":"Elaboração de Projeto hidráulico de estação de tratamento de esgoto. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":575,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":9,
+    "item":"Elaboração de Projeto hidráulico de emissário final. Memorial de cálculo, descritivo e desenhos"
+  },
+  {
+    "id":576,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "ordem":10,
+    "item":"Elaboração de orçamento de sistemas de esgotamento sanitário"
+  }
+]

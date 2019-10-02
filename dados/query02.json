@@ -1,0 +1,677 @@
+[
+  {
+    "id":79,
+    "codigo":"ENG103",
+    "nome":"Cartografia",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":101,
+    "codigo":"CET104",
+    "nome":"Geoprocessamento e Cartografia",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":15,
+    "chpratica":30
+  },
+  {
+    "id":107,
+    "codigo":"CBI339",
+    "nome":"Recursos Energéticos I",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":124,
+    "codigo":"ENG111",
+    "nome":"Noções Básicas de Máquinas e Equipamentos",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":138,
+    "codigo":"CAG277",
+    "nome":"Avaliação e Análise de Riscos Ambientais",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":30,
+    "chpratica":0
+  },
+  {
+    "id":141,
+    "codigo":"Nova009",
+    "nome":"Física Do Solo",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":145,
+    "codigo":"Nova007",
+    "nome":"Ecologia da Vegetação",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":60,
+    "chpratica":40
+  },
+  {
+    "id":147,
+    "codigo":"Nova005",
+    "nome":"Caracterização e Gestão de Unidades de Conservação",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":148,
+    "codigo":"Nova010",
+    "nome":"Gerenciamento de Resíduos de Serviço de Saúde",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":149,
+    "codigo":"Nova017",
+    "nome":"Tratamento de Efluentes Industriais",
+    "periodo":0,
+    "categoria":"optativa",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":75,
+    "codigo":"CET071",
+    "nome":"Física I",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":106,
+    "codigo":"CAG117",
+    "nome":"Química Geral",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":117,
+    "codigo":"ENG070",
+    "nome":"Desenho Técnico",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":30
+  },
+  {
+    "id":126,
+    "codigo":"CBI014",
+    "nome":"Biologia",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":130,
+    "codigo":"CET014",
+    "nome":"Calculo Integral e Diferencial I",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":131,
+    "codigo":"NCL114",
+    "nome":"Metodologia Científica",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":0
+  },
+  {
+    "id":132,
+    "codigo":"CET262",
+    "nome":"Geologia",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":144,
+    "codigo":"Nova011",
+    "nome":"Introdução A Engenharia Ambiental",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":0
+  },
+  {
+    "id":153,
+    "codigo":"AA12345",
+    "nome":"Introdução a Engenharia Ambiental",
+    "periodo":1,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":0
+  },
+  {
+    "id":127,
+    "codigo":"CSA500",
+    "nome":"Perícia Ambiental",
+    "periodo":10,
+    "categoria":"obrigatoria",
+    "chteorica":15,
+    "chpratica":15
+  },
+  {
+    "id":128,
+    "codigo":"CSA393",
+    "nome":"Trabalho de Conclusão de Curso II",
+    "periodo":10,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":129,
+    "codigo":"Nova003",
+    "nome":"Elaboração de Projetos em Engenharia",
+    "periodo":10,
+    "categoria":"obrigatoria",
+    "chteorica":15,
+    "chpratica":15
+  },
+  {
+    "id":76,
+    "codigo":"CET231",
+    "nome":"Probalidade e Estatística",
+    "periodo":2,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":30
+  },
+  {
+    "id":77,
+    "codigo":"CET073",
+    "nome":"Física II",
+    "periodo":2,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":78,
+    "codigo":"CAG108",
+    "nome":"Química Analítica",
+    "periodo":2,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":80,
+    "codigo":"CBI049",
+    "nome":"Ecologia",
+    "periodo":2,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":82,
+    "codigo":"CET099",
+    "nome":"Geomorfologia",
+    "periodo":2,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":89,
+    "codigo":"ENG049",
+    "nome":"Mecânica da Engenharia",
+    "periodo":2,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":133,
+    "codigo":"CET015",
+    "nome":"Calculo Integral e Diferencial II",
+    "periodo":2,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":81,
+    "codigo":"CAG150",
+    "nome":"Solos",
+    "periodo":3,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":83,
+    "codigo":"CET016",
+    "nome":"Calculo Integral e Diferencial III",
+    "periodo":3,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":85,
+    "codigo":"CET074",
+    "nome":"Física III",
+    "periodo":3,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":86,
+    "codigo":"CAG271",
+    "nome":"Cultura, Sociedade e Meio Ambiente",
+    "periodo":3,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":87,
+    "codigo":"CAG123",
+    "nome":"Química Orgânica",
+    "periodo":3,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":90,
+    "codigo":"ENG033",
+    "nome":"Fenômenos de Transporte",
+    "periodo":3,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":96,
+    "codigo":"ENG104",
+    "nome":"Caracterização Ambiental I",
+    "periodo":3,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":88,
+    "codigo":"ENG063",
+    "nome":"Topografia",
+    "periodo":4,
+    "categoria":"obrigatoria",
+    "chteorica":15,
+    "chpratica":45
+  },
+  {
+    "id":92,
+    "codigo":"CBI344",
+    "nome":"Microbiologia Ambiental",
+    "periodo":4,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":93,
+    "codigo":"ENG071",
+    "nome":"Resistência dos Materiais",
+    "periodo":4,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":94,
+    "codigo":"ENG035",
+    "nome":"Hidráulica",
+    "periodo":4,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":95,
+    "codigo":"CAG135",
+    "nome":"Sensoriamento Remoto",
+    "periodo":4,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":30
+  },
+  {
+    "id":97,
+    "codigo":"CAG272",
+    "nome":"Química Ambiental",
+    "periodo":4,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":139,
+    "codigo":"CET024",
+    "nome":"Métodos Numéricos",
+    "periodo":4,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":30
+  },
+  {
+    "id":91,
+    "codigo":"Nova006",
+    "nome":"Algoritmos e Estrutura de dados",
+    "periodo":5,
+    "categoria":"obrigatoria",
+    "chteorica":15,
+    "chpratica":45
+  },
+  {
+    "id":100,
+    "codigo":"CAG083",
+    "nome":"Meteorologia e Climatologia",
+    "periodo":5,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":102,
+    "codigo":"ENG105",
+    "nome":"Caracterização Ambiental II",
+    "periodo":5,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":104,
+    "codigo":"CSA001",
+    "nome":"Administração e Empreendedorismo",
+    "periodo":5,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":135,
+    "codigo":"Nova008",
+    "nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "periodo":5,
+    "categoria":"obrigatoria",
+    "chteorica":15,
+    "chpratica":45
+  },
+  {
+    "id":137,
+    "codigo":"ENG107",
+    "nome":"Poluição Ambiental",
+    "periodo":5,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":143,
+    "codigo":"Nova002",
+    "nome":"Geoprocessamento e Cartografia",
+    "periodo":5,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":30
+  },
+  {
+    "id":99,
+    "codigo":"ENG039",
+    "nome":"Hidrologia",
+    "periodo":6,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":103,
+    "codigo":"ENG108",
+    "nome":"Geotecnia Ambiental",
+    "periodo":6,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":105,
+    "codigo":"ENG035",
+    "nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "periodo":6,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":108,
+    "codigo":"CHU033",
+    "nome":"Educação Ambiental",
+    "periodo":6,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":109,
+    "codigo":"ENG106",
+    "nome":"Manejo e Conservação dos Recursos Naturais",
+    "periodo":6,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":30
+  },
+  {
+    "id":111,
+    "codigo":"Nova016",
+    "nome":"Sistemas Hidráulicos Em Saneamento",
+    "periodo":6,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":114,
+    "codigo":"CSA093",
+    "nome":"Direito Ambiental",
+    "periodo":6,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":110,
+    "codigo":"CAG274",
+    "nome":"Avaliação de Impactos Ambientais",
+    "periodo":7,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":112,
+    "codigo":"CAG275",
+    "nome":"Tratamento de Efluentes",
+    "periodo":7,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":113,
+    "codigo":"Nova015",
+    "nome":"Recursos Energéticos",
+    "periodo":7,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":115,
+    "codigo":"CAG131",
+    "nome":"Saúde e Vigilância Ambiental",
+    "periodo":7,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":30
+  },
+  {
+    "id":125,
+    "codigo":"CSA163",
+    "nome":"Economia Ambiental",
+    "periodo":7,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":0
+  },
+  {
+    "id":140,
+    "codigo":"CAG537",
+    "nome":"Drenagem Urbana",
+    "periodo":7,
+    "categoria":"obrigatoria",
+    "chteorica":15,
+    "chpratica":30
+  },
+  {
+    "id":146,
+    "codigo":"Nova018",
+    "nome":"Tratamento de Água",
+    "periodo":7,
+    "categoria":"obrigatoria",
+    "chteorica":15,
+    "chpratica":15
+  },
+  {
+    "id":116,
+    "codigo":"Nova001",
+    "nome":"Licenciamento Ambiental",
+    "periodo":8,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":119,
+    "codigo":"CSA278",
+    "nome":"Planejamento Ambiental",
+    "periodo":8,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":120,
+    "codigo":"NCL011",
+    "nome":"Estágio Curricular Supervionado",
+    "periodo":8,
+    "categoria":"obrigatoria",
+    "chteorica":0,
+    "chpratica":180
+  },
+  {
+    "id":123,
+    "codigo":"Nova013",
+    "nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "periodo":8,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":134,
+    "codigo":"CAG282",
+    "nome":"Gestão dos Recursos Hídricos",
+    "periodo":8,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":142,
+    "codigo":"Nova004",
+    "nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "periodo":8,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":118,
+    "codigo":"CAG278",
+    "nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "periodo":9,
+    "categoria":"obrigatoria",
+    "chteorica":45,
+    "chpratica":15
+  },
+  {
+    "id":121,
+    "codigo":"CAG279",
+    "nome":"Recuperação e Reabilitação Ambiental",
+    "periodo":9,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":30
+  },
+  {
+    "id":122,
+    "codigo":"CSA392",
+    "nome":"Trabalho de Conclusão de Curso I",
+    "periodo":9,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  },
+  {
+    "id":136,
+    "codigo":"Nova014",
+    "nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "periodo":9,
+    "categoria":"obrigatoria",
+    "chteorica":30,
+    "chpratica":15
+  },
+  {
+    "id":150,
+    "codigo":"CAG216",
+    "nome":"Sistemas de Gestão Ambiental",
+    "periodo":9,
+    "categoria":"obrigatoria",
+    "chteorica":60,
+    "chpratica":0
+  }
+]

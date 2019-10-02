@@ -1,0 +1,856 @@
+[
+  {
+    "id":46,
+    "disc_id":6,
+    "disc_nome":"Meteorologia e Climatologia",
+    "disc_prereq_id":41,
+    "disc_prereq_nome":"Probabilidade e Estatística"
+  },
+  {
+    "id":27,
+    "disc_id":10,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "disc_prereq_id":16,
+    "disc_prereq_nome":"Química Ambiental"
+  },
+  {
+    "id":15,
+    "disc_id":11,
+    "disc_nome":"Sensoriamento Remoto",
+    "disc_prereq_id":59,
+    "disc_prereq_nome":"Cartografia"
+  },
+  {
+    "id":4,
+    "disc_id":13,
+    "disc_nome":"Solos",
+    "disc_prereq_id":42,
+    "disc_prereq_nome":"Geologia"
+  },
+  {
+    "id":47,
+    "disc_id":14,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "disc_prereq_id":17,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":13,
+    "disc_id":16,
+    "disc_nome":"Química Ambiental",
+    "disc_prereq_id":8,
+    "disc_prereq_nome":"Química Geral"
+  },
+  {
+    "id":24,
+    "disc_id":17,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "disc_prereq_id":60,
+    "disc_prereq_nome":"Caracterização Ambiental I"
+  },
+  {
+    "id":25,
+    "disc_id":17,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "disc_prereq_id":61,
+    "disc_prereq_nome":"Caracterização Ambiental II"
+  },
+  {
+    "id":29,
+    "disc_id":18,
+    "disc_nome":"Tratamento de Efluentes",
+    "disc_prereq_id":65,
+    "disc_prereq_nome":"Processos e Operações Unitárias aplicados na Engenharia Ambiental"
+  },
+  {
+    "id":30,
+    "disc_id":19,
+    "disc_nome":"Análise de Impactos Ambientais",
+    "disc_prereq_id":17,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":31,
+    "disc_id":20,
+    "disc_nome":"Avaliação e Análise de Riscos Ambientais",
+    "disc_prereq_id":17,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":34,
+    "disc_id":21,
+    "disc_nome":"Resíduos Sólidos",
+    "disc_prereq_id":63,
+    "disc_prereq_nome":"Poluição Ambiental"
+  },
+  {
+    "id":33,
+    "disc_id":22,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "disc_prereq_id":60,
+    "disc_prereq_nome":"Caracterização Ambiental I"
+  },
+  {
+    "id":42,
+    "disc_id":23,
+    "disc_nome":"Drenagem Urbana",
+    "disc_prereq_id":53,
+    "disc_prereq_nome":"Hidráulica"
+  },
+  {
+    "id":43,
+    "disc_id":23,
+    "disc_nome":"Drenagem Urbana",
+    "disc_prereq_id":54,
+    "disc_prereq_nome":"Hidrologia"
+  },
+  {
+    "id":2,
+    "disc_id":25,
+    "disc_nome":"Ecologia",
+    "disc_prereq_id":24,
+    "disc_prereq_nome":"Biologia"
+  },
+  {
+    "id":23,
+    "disc_id":27,
+    "disc_nome":"Recursos Energéticos I",
+    "disc_prereq_id":60,
+    "disc_prereq_nome":"Caracterização Ambiental I"
+  },
+  {
+    "id":26,
+    "disc_id":28,
+    "disc_nome":"Recursos Energéticos II",
+    "disc_prereq_id":27,
+    "disc_prereq_nome":"Recursos Energéticos I"
+  },
+  {
+    "id":53,
+    "disc_id":31,
+    "disc_nome":"Cálculo Diferencial e Integral II",
+    "disc_prereq_id":130,
+    "disc_prereq_nome":"Calculo Integral e Diferencial I"
+  },
+  {
+    "id":49,
+    "disc_id":32,
+    "disc_nome":"Cálculo Diferencial e Integral III",
+    "disc_prereq_id":31,
+    "disc_prereq_nome":"Cálculo Diferencial e Integral II"
+  },
+  {
+    "id":144,
+    "disc_id":33,
+    "disc_nome":"Cálculo Numérico",
+    "disc_prereq_id":31,
+    "disc_prereq_nome":"Cálculo Diferencial e Integral II"
+  },
+  {
+    "id":141,
+    "disc_id":35,
+    "disc_nome":"Física II",
+    "disc_prereq_id":34,
+    "disc_prereq_nome":"Física I"
+  },
+  {
+    "id":7,
+    "disc_id":36,
+    "disc_nome":"Física III",
+    "disc_prereq_id":34,
+    "disc_prereq_nome":"Física I"
+  },
+  {
+    "id":16,
+    "disc_id":38,
+    "disc_nome":"Geoprocessamento",
+    "disc_prereq_id":11,
+    "disc_prereq_nome":"Sensoriamento Remoto"
+  },
+  {
+    "id":140,
+    "disc_id":40,
+    "disc_nome":"Modelagem Matemática em Sistemas Ambientais",
+    "disc_prereq_id":39,
+    "disc_prereq_nome":"Informática das Engenharias"
+  },
+  {
+    "id":35,
+    "disc_id":46,
+    "disc_nome":"Economia Ambiental",
+    "disc_prereq_id":63,
+    "disc_prereq_nome":"Poluição Ambiental"
+  },
+  {
+    "id":32,
+    "disc_id":47,
+    "disc_nome":"Planejamento Ambiental",
+    "disc_prereq_id":60,
+    "disc_prereq_nome":"Caracterização Ambiental I"
+  },
+  {
+    "id":39,
+    "disc_id":50,
+    "disc_nome":"Perícia Ambiental",
+    "disc_prereq_id":17,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":6,
+    "disc_id":52,
+    "disc_nome":"Fenômenos de Transportes",
+    "disc_prereq_id":35,
+    "disc_prereq_nome":"Física II"
+  },
+  {
+    "id":11,
+    "disc_id":53,
+    "disc_nome":"Hidráulica",
+    "disc_prereq_id":52,
+    "disc_prereq_nome":"Fenômenos de Transportes"
+  },
+  {
+    "id":17,
+    "disc_id":54,
+    "disc_nome":"Hidrologia",
+    "disc_prereq_id":41,
+    "disc_prereq_nome":"Probabilidade e Estatística"
+  },
+  {
+    "id":8,
+    "disc_id":55,
+    "disc_nome":"Mecânica de Engenharia",
+    "disc_prereq_id":34,
+    "disc_prereq_nome":"Física I"
+  },
+  {
+    "id":9,
+    "disc_id":56,
+    "disc_nome":"Topografia",
+    "disc_prereq_id":59,
+    "disc_prereq_nome":"Cartografia"
+  },
+  {
+    "id":10,
+    "disc_id":60,
+    "disc_nome":"Caracterização Ambiental I",
+    "disc_prereq_id":25,
+    "disc_prereq_nome":"Ecologia"
+  },
+  {
+    "id":21,
+    "disc_id":62,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "disc_prereq_id":25,
+    "disc_prereq_nome":"Ecologia"
+  },
+  {
+    "id":19,
+    "disc_id":63,
+    "disc_nome":"Poluição Ambiental",
+    "disc_prereq_id":16,
+    "disc_prereq_nome":"Química Ambiental"
+  },
+  {
+    "id":20,
+    "disc_id":64,
+    "disc_nome":"Geotecnia Ambiental",
+    "disc_prereq_id":13,
+    "disc_prereq_nome":"Solos"
+  },
+  {
+    "id":22,
+    "disc_id":65,
+    "disc_nome":"Processos e Operações Unitárias aplicados na Engenharia Ambiental",
+    "disc_prereq_id":53,
+    "disc_prereq_nome":"Hidráulica"
+  },
+  {
+    "id":37,
+    "disc_id":66,
+    "disc_nome":"Projetos de Saneamento",
+    "disc_prereq_id":18,
+    "disc_prereq_nome":"Tratamento de Efluentes"
+  },
+  {
+    "id":44,
+    "disc_id":68,
+    "disc_nome":"Reuso de Água",
+    "disc_prereq_id":18,
+    "disc_prereq_nome":"Tratamento de Efluentes"
+  },
+  {
+    "id":45,
+    "disc_id":69,
+    "disc_nome":"Projeto de Sistemas de Esgotos Sanitários",
+    "disc_prereq_id":18,
+    "disc_prereq_nome":"Tratamento de Efluentes"
+  },
+  {
+    "id":41,
+    "disc_id":70,
+    "disc_nome":"Biologia da Conservação",
+    "disc_prereq_id":25,
+    "disc_prereq_nome":"Ecologia"
+  },
+  {
+    "id":85,
+    "disc_id":77,
+    "disc_nome":"Física II",
+    "disc_prereq_id":75,
+    "disc_prereq_nome":"Física I"
+  },
+  {
+    "id":109,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "disc_prereq_id":106,
+    "disc_prereq_nome":"Química Geral"
+  },
+  {
+    "id":128,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "disc_prereq_id":82,
+    "disc_prereq_nome":"Geomorfologia"
+  },
+  {
+    "id":146,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "disc_prereq_id":132,
+    "disc_prereq_nome":"Geologia"
+  },
+  {
+    "id":55,
+    "disc_id":83,
+    "disc_nome":"Calculo Integral e Diferencial III",
+    "disc_prereq_id":133,
+    "disc_prereq_nome":"Calculo Integral e Diferencial II"
+  },
+  {
+    "id":86,
+    "disc_id":85,
+    "disc_nome":"Física III",
+    "disc_prereq_id":75,
+    "disc_prereq_nome":"Física I"
+  },
+  {
+    "id":110,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "disc_prereq_id":106,
+    "disc_prereq_nome":"Química Geral"
+  },
+  {
+    "id":148,
+    "disc_id":88,
+    "disc_nome":"Topografia",
+    "disc_prereq_id":117,
+    "disc_prereq_nome":"Desenho Técnico"
+  },
+  {
+    "id":95,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "disc_prereq_id":75,
+    "disc_prereq_nome":"Física I"
+  },
+  {
+    "id":83,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "disc_prereq_id":77,
+    "disc_prereq_nome":"Física II"
+  },
+  {
+    "id":125,
+    "disc_id":91,
+    "disc_nome":"Algoritmos e Estrutura de dados",
+    "disc_prereq_id":83,
+    "disc_prereq_nome":"Calculo Integral e Diferencial III"
+  },
+  {
+    "id":62,
+    "disc_id":91,
+    "disc_nome":"Algoritmos e Estrutura de dados",
+    "disc_prereq_id":85,
+    "disc_prereq_nome":"Física III"
+  },
+  {
+    "id":97,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "disc_prereq_id":80,
+    "disc_prereq_nome":"Ecologia"
+  },
+  {
+    "id":98,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "disc_prereq_id":126,
+    "disc_prereq_nome":"Biologia"
+  },
+  {
+    "id":113,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "disc_prereq_id":89,
+    "disc_prereq_nome":"Mecânica da Engenharia"
+  },
+  {
+    "id":114,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "disc_prereq_id":130,
+    "disc_prereq_nome":"Calculo Integral e Diferencial I"
+  },
+  {
+    "id":89,
+    "disc_id":94,
+    "disc_nome":"Hidráulica",
+    "disc_prereq_id":90,
+    "disc_prereq_nome":"Fenômenos de Transporte"
+  },
+  {
+    "id":123,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "disc_prereq_id":81,
+    "disc_prereq_nome":"Solos"
+  },
+  {
+    "id":122,
+    "disc_id":95,
+    "disc_nome":"Sensoriamento Remoto",
+    "disc_prereq_id":96,
+    "disc_prereq_nome":"Caracterização Ambiental I"
+  },
+  {
+    "id":147,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "disc_prereq_id":106,
+    "disc_prereq_nome":"Química Geral"
+  },
+  {
+    "id":91,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "disc_prereq_id":76,
+    "disc_prereq_nome":"Probalidade e Estatística"
+  },
+  {
+    "id":90,
+    "disc_id":99,
+    "disc_nome":"Hidrologia",
+    "disc_prereq_id":100,
+    "disc_prereq_nome":"Meteorologia e Climatologia"
+  },
+  {
+    "id":149,
+    "disc_id":100,
+    "disc_nome":"Meteorologia e Climatologia",
+    "disc_prereq_id":77,
+    "disc_prereq_nome":"Física II"
+  },
+  {
+    "id":57,
+    "disc_id":102,
+    "disc_nome":"Caracterização Ambiental II",
+    "disc_prereq_id":86,
+    "disc_prereq_nome":"Cultura, Sociedade e Meio Ambiente"
+  },
+  {
+    "id":151,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "disc_prereq_id":81,
+    "disc_prereq_nome":"Solos"
+  },
+  {
+    "id":105,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "disc_prereq_id":94,
+    "disc_prereq_nome":"Hidráulica"
+  },
+  {
+    "id":74,
+    "disc_id":108,
+    "disc_nome":"Educação Ambiental",
+    "disc_prereq_id":102,
+    "disc_prereq_nome":"Caracterização Ambiental II"
+  },
+  {
+    "id":93,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "disc_prereq_id":81,
+    "disc_prereq_nome":"Solos"
+  },
+  {
+    "id":152,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "disc_prereq_id":96,
+    "disc_prereq_nome":"Caracterização Ambiental I"
+  },
+  {
+    "id":153,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "disc_prereq_id":96,
+    "disc_prereq_nome":"Caracterização Ambiental I"
+  },
+  {
+    "id":154,
+    "disc_id":110,
+    "disc_nome":"Avaliação de Impactos Ambientais",
+    "disc_prereq_id":102,
+    "disc_prereq_nome":"Caracterização Ambiental II"
+  },
+  {
+    "id":127,
+    "disc_id":111,
+    "disc_nome":"Sistemas Hidráulicos Em Saneamento",
+    "disc_prereq_id":94,
+    "disc_prereq_nome":"Hidráulica"
+  },
+  {
+    "id":136,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "disc_prereq_id":92,
+    "disc_prereq_nome":"Microbiologia Ambiental"
+  },
+  {
+    "id":137,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "disc_prereq_id":105,
+    "disc_prereq_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental"
+  },
+  {
+    "id":134,
+    "disc_id":112,
+    "disc_nome":"Tratamento de Efluentes",
+    "disc_prereq_id":137,
+    "disc_prereq_nome":"Poluição Ambiental"
+  },
+  {
+    "id":155,
+    "disc_id":113,
+    "disc_nome":"Recursos Energéticos",
+    "disc_prereq_id":97,
+    "disc_prereq_nome":"Química Ambiental"
+  },
+  {
+    "id":150,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "disc_prereq_id":137,
+    "disc_prereq_nome":"Poluição Ambiental"
+  },
+  {
+    "id":116,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "disc_prereq_id":80,
+    "disc_prereq_nome":"Ecologia"
+  },
+  {
+    "id":156,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "disc_prereq_id":102,
+    "disc_prereq_nome":"Caracterização Ambiental II"
+  },
+  {
+    "id":117,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "disc_prereq_id":137,
+    "disc_prereq_nome":"Poluição Ambiental"
+  },
+  {
+    "id":159,
+    "disc_id":116,
+    "disc_nome":"Licenciamento Ambiental",
+    "disc_prereq_id":110,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":111,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "disc_prereq_id":112,
+    "disc_prereq_nome":"Tratamento de Efluentes"
+  },
+  {
+    "id":112,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "disc_prereq_id":137,
+    "disc_prereq_nome":"Poluição Ambiental"
+  },
+  {
+    "id":160,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "disc_prereq_id":110,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":162,
+    "disc_id":121,
+    "disc_nome":"Recuperação e Reabilitação Ambiental",
+    "disc_prereq_id":103,
+    "disc_prereq_nome":"Geotecnia Ambiental"
+  },
+  {
+    "id":130,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "disc_prereq_id":131,
+    "disc_prereq_nome":"Metodologia Científica"
+  },
+  {
+    "id":161,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "disc_prereq_id":146,
+    "disc_prereq_nome":"Tratamento de Água"
+  },
+  {
+    "id":99,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "disc_prereq_id":93,
+    "disc_prereq_nome":"Resistência dos Materiais"
+  },
+  {
+    "id":71,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "disc_prereq_id":137,
+    "disc_prereq_nome":"Poluição Ambiental"
+  },
+  {
+    "id":100,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "disc_prereq_id":114,
+    "disc_prereq_nome":"Direito Ambiental"
+  },
+  {
+    "id":101,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "disc_prereq_id":125,
+    "disc_prereq_nome":"Economia Ambiental"
+  },
+  {
+    "id":102,
+    "disc_id":127,
+    "disc_nome":"Perícia Ambiental",
+    "disc_prereq_id":142,
+    "disc_prereq_nome":"Segurança Do Trabalho e Riscos Ambientais"
+  },
+  {
+    "id":131,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "disc_prereq_id":122,
+    "disc_prereq_nome":"Trabalho de Conclusão de Curso I"
+  },
+  {
+    "id":78,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "disc_prereq_id":136,
+    "disc_prereq_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias"
+  },
+  {
+    "id":82,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "disc_prereq_id":150,
+    "disc_prereq_nome":"Sistemas de Gestão Ambiental"
+  },
+  {
+    "id":54,
+    "disc_id":133,
+    "disc_nome":"Calculo Integral e Diferencial II",
+    "disc_prereq_id":130,
+    "disc_prereq_nome":"Calculo Integral e Diferencial I"
+  },
+  {
+    "id":87,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "disc_prereq_id":99,
+    "disc_prereq_nome":"Hidrologia"
+  },
+  {
+    "id":126,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "disc_prereq_id":83,
+    "disc_prereq_nome":"Calculo Integral e Diferencial III"
+  },
+  {
+    "id":77,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "disc_prereq_id":85,
+    "disc_prereq_nome":"Física III"
+  },
+  {
+    "id":108,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "disc_prereq_id":112,
+    "disc_prereq_nome":"Tratamento de Efluentes"
+  },
+  {
+    "id":104,
+    "disc_id":137,
+    "disc_nome":"Poluição Ambiental",
+    "disc_prereq_id":97,
+    "disc_prereq_nome":"Química Ambiental"
+  },
+  {
+    "id":145,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "disc_prereq_id":133,
+    "disc_prereq_nome":"Calculo Integral e Diferencial II"
+  },
+  {
+    "id":65,
+    "disc_id":140,
+    "disc_nome":"Drenagem Urbana",
+    "disc_prereq_id":94,
+    "disc_prereq_nome":"Hidráulica"
+  },
+  {
+    "id":64,
+    "disc_id":140,
+    "disc_nome":"Drenagem Urbana",
+    "disc_prereq_id":99,
+    "disc_prereq_nome":"Hidrologia"
+  },
+  {
+    "id":84,
+    "disc_id":141,
+    "disc_nome":"Física Do Solo",
+    "disc_prereq_id":81,
+    "disc_prereq_nome":"Solos"
+  },
+  {
+    "id":121,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "disc_prereq_id":110,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":120,
+    "disc_id":142,
+    "disc_nome":"Segurança Do Trabalho e Riscos Ambientais",
+    "disc_prereq_id":115,
+    "disc_prereq_nome":"Saúde e Vigilância Ambiental"
+  },
+  {
+    "id":61,
+    "disc_id":143,
+    "disc_nome":"Geoprocessamento e Cartografia",
+    "disc_prereq_id":95,
+    "disc_prereq_nome":"Sensoriamento Remoto"
+  },
+  {
+    "id":68,
+    "disc_id":145,
+    "disc_nome":"Ecologia da Vegetação",
+    "disc_prereq_id":80,
+    "disc_prereq_nome":"Ecologia"
+  },
+  {
+    "id":66,
+    "disc_id":145,
+    "disc_nome":"Ecologia da Vegetação",
+    "disc_prereq_id":96,
+    "disc_prereq_nome":"Caracterização Ambiental I"
+  },
+  {
+    "id":67,
+    "disc_id":145,
+    "disc_nome":"Ecologia da Vegetação",
+    "disc_prereq_id":102,
+    "disc_prereq_nome":"Caracterização Ambiental II"
+  },
+  {
+    "id":70,
+    "disc_id":145,
+    "disc_nome":"Ecologia da Vegetação",
+    "disc_prereq_id":110,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":69,
+    "disc_id":145,
+    "disc_nome":"Ecologia da Vegetação",
+    "disc_prereq_id":116,
+    "disc_prereq_nome":"Licenciamento Ambiental"
+  },
+  {
+    "id":132,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "disc_prereq_id":105,
+    "disc_prereq_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental"
+  },
+  {
+    "id":60,
+    "disc_id":147,
+    "disc_nome":"Caracterização e Gestão de Unidades de Conservação",
+    "disc_prereq_id":102,
+    "disc_prereq_nome":"Caracterização Ambiental II"
+  },
+  {
+    "id":58,
+    "disc_id":147,
+    "disc_nome":"Caracterização e Gestão de Unidades de Conservação",
+    "disc_prereq_id":104,
+    "disc_prereq_nome":"Administração e Empreendedorismo"
+  },
+  {
+    "id":59,
+    "disc_id":147,
+    "disc_nome":"Caracterização e Gestão de Unidades de Conservação",
+    "disc_prereq_id":109,
+    "disc_prereq_nome":"Manejo e Conservação dos Recursos Naturais"
+  },
+  {
+    "id":139,
+    "disc_id":149,
+    "disc_nome":"Tratamento de Efluentes Industriais",
+    "disc_prereq_id":112,
+    "disc_prereq_nome":"Tratamento de Efluentes"
+  },
+  {
+    "id":163,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "disc_prereq_id":110,
+    "disc_prereq_nome":"Avaliação de Impactos Ambientais"
+  },
+  {
+    "id":50,
+    "disc_id":151,
+    "disc_nome":"Gestão Ambiental em Saúde",
+    "disc_prereq_id":21,
+    "disc_prereq_nome":"Resíduos Sólidos"
+  }
+]

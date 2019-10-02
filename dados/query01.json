@@ -1,0 +1,2122 @@
+[
+  {
+    "id":1,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Cotrim, Ademaro A.M.B., 1939-. Instalações elétricas. 5ed. São Paulo. Pearson Pretice Hall. 2009. 08-10784. CDD 621.3192.  UFT00067178",
+    "isbn_issn":"978-85-7605-208-1"
+  },
+  {
+    "id":2,
+    "disc_id":104,
+    "disc_nome":"Administração e Empreendedorismo",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"basica",
+    "citacao":"dasdasd asd",
+    "isbn_issn":"11"
+  },
+  {
+    "id":3,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"basica",
+    "citacao":"Economia Ambiental - Gestão de custos e investimentos, 2011. Editora Del Rey.",
+    "isbn_issn":"9788538401773"
+  },
+  {
+    "id":4,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"Manual para Valoração de Recursos Naturais, Ronaldo Seroa da Mota, 1997",
+    "isbn_issn":"Não tem"
+  },
+  {
+    "id":5,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Sano, S.M.; Almeida, S.P.; Ribeiro, J.F. (eds). Cerrado, Ecologia e Flora. Editora, Volume 1. Embrapa, Brasília, DF. 406p. 2008.",
+    "isbn_issn":"978-85-7383-397-3"
+  },
+  {
+    "id":6,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Ricklefs, R.E. A Economia da Natureza. Editora Guanabara Koogan, Rio de Janeiro, RJ, sétima edição. 503p. 2016",
+    "isbn_issn":"9788527729628"
+  },
+  {
+    "id":7,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Cullen Jr., L.; Rudran, R.; Valladares-Pádua, C. (orgs). Métodos de Estudos em Biologia da Conservação e Manejo da Vida Silvestre. Editora UFPR, segunda edição revisada. 652p. 2006.",
+    "isbn_issn":"978-8573351743"
+  },
+  {
+    "id":8,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Odum, E.P. Fundamentos em Ecologia. Fundação  Calouste Gulbenkian. Lisboa, Portugal, sétima edição. 928p. 2004.",
+    "isbn_issn":"9789723101584"
+  },
+  {
+    "id":9,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Cain, M.; Bowman, W.D.; Hacker, S.D. Ecologia. Artmed Editora. Porto Alegre, RS. 644p. 2011.",
+    "isbn_issn":"9788536325477"
+  },
+  {
+    "id":10,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "tipo":"livro",
+    "quantidade":2,
+    "uso":"complementar",
+    "citacao":"Townsend, C.R.; Begon, M. Harper, J.L. Fundamentos em Ecologia. Artmed Editora. Porto Alegre, RS. 576p. 2010",
+    "isbn_issn":"9788536320649"
+  },
+  {
+    "id":11,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "tipo":"livro",
+    "quantidade":2,
+    "uso":"complementar",
+    "citacao":"Harper, J.L. Ecologia: De indivíduos a Ecossistemas. Editora Saraiva. Quarta Edição. 740p. 2007.",
+    "isbn_issn":"9788536308845"
+  },
+  {
+    "id":12,
+    "disc_id":96,
+    "disc_nome":"Caracterização Ambiental I",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"Santos, R.F. Planejamento Ambiental: teoria e prática. São Paulo:Oficina de Textos. 184 p. 2004.",
+    "isbn_issn":"978-85-86238-62-8"
+  },
+  {
+    "id":14,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Townsend, C.R.; Begon, M. Harper, J.L. Fundamentos em Ecologia. Artmed Editora. Porto Alegre, RS. 576p. 2010.",
+    "isbn_issn":"9788536320649"
+  },
+  {
+    "id":15,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Ricklefs, R.E. A Economia da Natureza. Editora Guanabara Koogan, Rio de Janeiro, RJ, sétima edição. 503p. 2016",
+    "isbn_issn":"9788527729628"
+  },
+  {
+    "id":16,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Cullen Jr., L.; Rudran, R.; Valladares-Pádua, C. (orgs). Métodos de Estudos em Biologia da Conservação e Manejo da Vida Silvestre. Editora UFPR, segunda edição revisada. 652p. 2006.",
+    "isbn_issn":"978-8573351743"
+  },
+  {
+    "id":17,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Cain, M.; Bowman, W.D.; Hacker, S.D. Ecologia. Artmed Editora. Porto Alegre, RS. 644p. 2011.",
+    "isbn_issn":"9788536325477"
+  },
+  {
+    "id":18,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Harper, J.L. Ecologia: De indivíduos a Ecossistemas. Editora Saraiva. Quarta Edição. 740p. 2007.",
+    "isbn_issn":"9788536308845"
+  },
+  {
+    "id":19,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "tipo":"livro",
+    "quantidade":3,
+    "uso":"complementar",
+    "citacao":"Gotelli, N.J.; Ellison, A.M. Princípios de Estatística em Ecologia. Artmed Editora. Porto Alegre, RS. 532p. 2010.",
+    "isbn_issn":"9788536324326"
+  },
+  {
+    "id":20,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"Odum, E.P. Fundamentos em Ecologia. Fundação  Calouste Gulbenkian. Lisboa, Portugal, sétima edição. 928p. 2004.",
+    "isbn_issn":"9789723101584"
+  },
+  {
+    "id":21,
+    "disc_id":80,
+    "disc_nome":"Ecologia",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"Santos, R.F. Planejamento Ambiental: teoria e prática. São Paulo:Oficina de Textos. 184 p. 2004.",
+    "isbn_issn":"978-85-86238-62-8"
+  },
+  {
+    "id":22,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Instalacoes eletricas industriais. Mamede Filho, Joao. LTC Ed., 7.ed. de acordo com a nova norma brasileira, NBR 5410:2004 e 14.039. 2009. CDD: 621.31924",
+    "isbn_issn":"978852161520-0"
+  },
+  {
+    "id":23,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Instalações elétricas. Creder, Helio.  LTC,  15. ed. 2007. CDD: 621.31042",
+    "isbn_issn":"9788521615675"
+  },
+  {
+    "id":24,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Instalações elétricas. Niskier, Julio.  LTC, 5. ed. 2008. CDD: 621.31042",
+    "isbn_issn":"9788521615897"
+  },
+  {
+    "id":25,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"TEIXEIRA, W.; TOLEDO, M. C. M.; FAIRCHILD, T. R.; TAIOLI, F. Decifrando a Terra. 2. ed. São Paulo : Oficina de Textos, 2009. 624 p.",
+    "isbn_issn":"978-85-040-1439-6"
+  },
+  {
+    "id":26,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"FITTS, C.R. Águas subterrâneas. 2. ed. Rio de Janeiro : Elsevier, 2015.",
+    "isbn_issn":"978-85-352-7744-9"
+  },
+  {
+    "id":27,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"HASUI, Y; CARNEIRO, C.D.R.; ALMEIDA, F.F.M; BARTORELLI, A. Geologia do Brasil. 1. ed. São Paulo: Editora Beca, 2013. 900 p.",
+    "isbn_issn":"978-85-627-6810-1"
+  },
+  {
+    "id":28,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"complementar",
+    "citacao":"CHIOSSI, N.H. Geologia aplicada à engenharia. 3. ed. São Paulo: Oficina de Textos, 2013. 424p.",
+    "isbn_issn":"978-85-797-5083-0"
+  },
+  {
+    "id":29,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"complementar",
+    "citacao":"POPP, J. H. Geologia Geral. 6. Ed. Rio de Janeiro : Livros Técnicos e Científicos, 2010. 324p.",
+    "isbn_issn":"978-85-216-1760-0"
+  },
+  {
+    "id":30,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "tipo":"livro",
+    "quantidade":3,
+    "uso":"complementar",
+    "citacao":"QUEIROZ, RUDNEY C. Geologia e geotecnia básica para a engenharia civil. 1. ed. São Paulo : Bluncher, 2016. 416p.",
+    "isbn_issn":"978-85-212-0956-0"
+  },
+  {
+    "id":31,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "tipo":"livro",
+    "quantidade":3,
+    "uso":"complementar",
+    "citacao":"FEITOSA, F. A. C., J. M. FILHO. Hidrogeologia: Conceitos e Aplicações. 3. ed. rev. e ampl. Rio de Janeiro : CPRM; Recife: LABHID, 2008. 812 p.",
+    "isbn_issn":"978-85-749-9061-3"
+  },
+  {
+    "id":32,
+    "disc_id":132,
+    "disc_nome":"Geologia",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"LEINZ, V.; AMARAL, S.C. Geologia Geral. 14. ed. São Paulo : Companhia Editora Nacional, 2003. 400p.",
+    "isbn_issn":"978-85-040-0354-3"
+  },
+  {
+    "id":33,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"CHRISTOFOLETTI, A. Geomorfologia. 2. ed. São Paulo : Blucher, 1980. 188p.",
+    "isbn_issn":"978-85-212-0130-4"
+  },
+  {
+    "id":34,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"TEIXEIRA, W.; TOLEDO, M. C. M.; FAIRCHILD, T. R.; TAIOLI, F. Decifrando a Terra. 2. ed. São Paulo : Oficina de Textos, 2009. 624 p.",
+    "isbn_issn":"978-85-040-1439-6"
+  },
+  {
+    "id":35,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"GUIDICINI, G; NIABLE, C.N. Estabilidade de Taludes Naturais e de Escavação. 2. ed. São Paulo: Blucher, 1984. 216 p.",
+    "isbn_issn":"978-85-212-0186-9"
+  },
+  {
+    "id":36,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"FLORENZANO, T. G. Geomorfologia: Conceitos e tecnologias atuais. 1. ed. São Paulo : Oficina de Textos, 2008. 320 p.",
+    "isbn_issn":"978-85-862-3865-9"
+  },
+  {
+    "id":37,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"GUERRA, A.T.J. Geomorfologia – uma atualização de bases e conceitos. 9. ed. Rio de Janeiro: Bertrand Brasil, 2012. 472 p.",
+    "isbn_issn":"978-85-286-0326-2"
+  },
+  {
+    "id":38,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"livro",
+    "quantidade":3,
+    "uso":"complementar",
+    "citacao":"ASHBY,M.F. Engenharia ambiental: conceitos, tecnologia e gestão. 1. ed. Rio de Janeiro : Elsevier, 2013. 789 p.",
+    "isbn_issn":"978-85-352-5954-4"
+  },
+  {
+    "id":39,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"livro",
+    "quantidade":3,
+    "uso":"complementar",
+    "citacao":"GUERRA, A. J. T; JORGE, M. C. O. Processos erosivos e recuperação de áreas degradadas. 1. ed. São Paulo: Oficina de Textos, 2013. 192 p.",
+    "isbn_issn":"978-85-797-5079-3"
+  },
+  {
+    "id":40,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"livro",
+    "quantidade":4,
+    "uso":"complementar",
+    "citacao":"PINTO, C. S. Curso Básico de Mecânica dos Solos. 3. ed. São Paulo: Oficina de Textos, 2006. 367 p.",
+    "isbn_issn":"978-85-862-3851-2"
+  },
+  {
+    "id":41,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"outros",
+    "quantidade":0,
+    "uso":"outro",
+    "citacao":"IBGE. Manual técnico de geomorfologia. 2. ed. Rio de Janeiro : IBGE, 2009. Disponível em: ftp://geoftp.ibge.gov.br/documentos/recursos_naturais/manuais_tecnicos/manual_tecnico_geomorfologia.pdf. Acesso em: 17/01/2017",
+    "isbn_issn":"978-85-240-4110-5"
+  },
+  {
+    "id":42,
+    "disc_id":82,
+    "disc_nome":"Geomorfologia",
+    "tipo":"outros",
+    "quantidade":0,
+    "uso":"outro",
+    "citacao":"CASSETI, V. Geomorfologia. [S.l.]: [2005]. Disponível em: <http://www.funape.org.br/geomorfologia/>. Acesso em: . 17/01/2017.",
+    "isbn_issn":""
+  },
+  {
+    "id":44,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "tipo":"livro",
+    "quantidade":3,
+    "uso":"basica",
+    "citacao":"D’ALMEIDA, Maria Luiza Otero, VILHENA, André. Lixo Municipal: Manual de Gerenciamento Integrado. São Paulo: IPT/CEMPRE, 2000.",
+    "isbn_issn":""
+  },
+  {
+    "id":45,
+    "disc_id":75,
+    "disc_nome":"Física I",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"",
+    "isbn_issn":"978-85-216-1903-l"
+  },
+  {
+    "id":46,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"OLIVEIRA, J.B. Pedologia aplicada.  3ed. Piracicaba: FEALQ, 2008.",
+    "isbn_issn":"978-85-7133-064-1"
+  },
+  {
+    "id":47,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"MELO, V. F.; ALLEONI, L. R. F. (editores). Química e mineralogia do solo. Vol 1.Viçosa – MG: SBCS. 2009",
+    "isbn_issn":"978-85-86504-04-4"
+  },
+  {
+    "id":48,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"MELO, V. F.; ALLEONI, L. R. F. (editores). Química e mineralogia do solo. Vol 2.Viçosa – MG: SBCS. 2009",
+    "isbn_issn":"978-85-86504-05-1"
+  },
+  {
+    "id":49,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"LEPSCH, I. F. Formação e Conservação do solo. São Paulo: Oficina de Textos, 2002",
+    "isbn_issn":"978-85-7975-008-3"
+  },
+  {
+    "id":50,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"REICHARDT, K; TIMM, L. C. Solo, planta e atmosfera: conceitos, processos e aplicações. Barueri/SP: Manole, 2004.",
+    "isbn_issn":"978-85-204-1773-6"
+  },
+  {
+    "id":51,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "tipo":"livro",
+    "quantidade":2,
+    "uso":"complementar",
+    "citacao":"BRADY, N. C. Natureza e propriedades dos solos. Trad. Antônio B. N. Figueiredo. 7ed. Rio de Janeiro: Freitas Bastos, 1989.",
+    "isbn_issn":""
+  },
+  {
+    "id":52,
+    "disc_id":81,
+    "disc_nome":"Solos",
+    "tipo":"livro",
+    "quantidade":2,
+    "uso":"complementar",
+    "citacao":"GLIESSMAN, S. R. Agroecologia: processos ecológicos em agricultura sustentável. 2ed. Porto Alegre: Ed.Universidade/UFRGS. 2001",
+    "isbn_issn":"978-85-7025603-5"
+  },
+  {
+    "id":53,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Guerra, A.J.T., Silva, A.S., Garrido, R.M.B. Erosão e Conservação dos Solos - Conceitos, Temas e Aplicações. 8. ed. Rio de Janeiro: Bertrand Do Brasil, 2012.",
+    "isbn_issn":"9788528607383"
+  },
+  {
+    "id":54,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"Prado, R.B. Turetta, A.P.D., Andrade, A.G de (Org.). Manejo e Conservação do Solo e da Água no contexto das mudanças ambientais. Embrapa Solos Rio de Janeiro, 2010. Disponível em: http://www.cnps.embrapa.br/publicacoes/pdfs/livro_2010_manejo_cons_solo_agua.pdf",
+    "isbn_issn":""
+  },
+  {
+    "id":55,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Barbosa, R.P. Recursos Naturais E Biodiversidade: Preservação E Conservação Dos Ecossistemas - Série Eixos. São Paulo: Saraiva. 2014",
+    "isbn_issn":"978-85-3650-870-2"
+  },
+  {
+    "id":56,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"Schubart, H.O.R. Parte 3: Gestão de Recursos Hídricos e Gestão do Uso do Solo: O Zoneamento Ecológico-Econômico E A Gestão Dos Recursos Hídricos. Em: Interfaces da Gestão de Recursos Hídricos. Ed. 2000. Disponível em: http://www.uff.br/cienciaambiental/biblioteca/rhidricos/parte3.pdf",
+    "isbn_issn":""
+  },
+  {
+    "id":57,
+    "disc_id":109,
+    "disc_nome":"Manejo e Conservação dos Recursos Naturais",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"Mota, F.S. Preservação e conservação dos recursos hídricos. 2ª. Edição. Rio de Janeiro: ABES. 1995.",
+    "isbn_issn":"978-8570-221-18-5"
+  },
+  {
+    "id":58,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"MELO, Itamar Soares e AZEVEDO, João Lucio. MICROBIOLOGIA AMBIENTAL - 2/ED. Editora: EMBRAPA - 2008",
+    "isbn_issn":"9788585771447"
+  },
+  {
+    "id":59,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"MICHAEL J. PELCZAR JR., E.C.S. CHAN, NOEL R. KRIEG. Microbiologia: conceitos e aplicações. Vol 1 Editora: Pearson Education - 2ª – 1997",
+    "isbn_issn":"8534604541"
+  },
+  {
+    "id":60,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"MICHAEL J. PELCZAR JR., E.C.S. CHAN, NOEL R. KRIEG. Microbiologia: conceitos e aplicações. Vol  2. Editora: Pearson Education - 2ª – 1997",
+    "isbn_issn":"8534604541"
+  },
+  {
+    "id":61,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"MICROBIOLOGIA DE BROCK 14ª EDICAO C/CD ROM MICHAEL T. MADIGAN, JOHN M. MARTINKO, JACK PARKER - Editora Pearson / Prentice Hall (Grupo Pearson)",
+    "isbn_issn":"9788582712979"
+  },
+  {
+    "id":62,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"GERARD J. TORTORA; BERDELL R. FUNKE; CHRISTINE L. CASE - Editora Artmed MICROBIOLOGIA - 10ª EDIÇÃO - 2011",
+    "isbn_issn":"9788582713532"
+  },
+  {
+    "id":63,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"complementar",
+    "citacao":"MANUAL DE MÉTODOS DE ANÁLISE MICROBIOLÓGICA DA ÁGUA NEUSELY DA SILVA/ROMEU C.NETO/VALÉRIA C.A. /NELIAN - Editora Varela",
+    "isbn_issn":"9788577590131"
+  },
+  {
+    "id":64,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"complementar",
+    "citacao":"MANUAL PRÁTICO DE MICROBIOLOGIA BÁSICA ROGERIO LACAZ RUIZ - Editora EDUSP",
+    "isbn_issn":"85-314-0540-8"
+  },
+  {
+    "id":65,
+    "disc_id":92,
+    "disc_nome":"Microbiologia Ambiental",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"complementar",
+    "citacao":"PRÁTICAS DE MICROBIOLOGIA VERMELHO, ALANE BEATRIZ - PEREIRA, ANTÔNIO FERREIRA - COELHO, ROSALIE REED RODRIGUES - SOUTO-PADRÓN, - Editora SonoPress RIMO",
+    "isbn_issn":"8527711656"
+  },
+  {
+    "id":66,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Ogenis Magno Brilhante e Luiz Querino de A. Caldas (Coords.) Gestão e Avaliação de Risco em Saúde Ambiental. ISBN 85-85676-56-6. 2a reimpressão: 2004. 1a reimpressão: 2002. (1a edição: 1999). 155p.  Editora Fiocruz",
+    "isbn_issn":"85-85676-56-6"
+  },
+  {
+    "id":67,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"Luís Sérgio Ozório Valentim. Requalificação urbana, contaminação do solo e riscos à saúde: um caso na cidade de São Paulo. Annablume, 2007. 159 P.",
+    "isbn_issn":"8574197246"
+  },
+  {
+    "id":68,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"Cristina Lucia Silveira Sisinno, Rosália Maria de Oliveira (oRG.) Resíduos Sólidos, Ambiente e Saúde: uma visão multidisciplinar. 3ª reimpressão: 2006. 2ª reimpressão: 2003. 1ª reimpressão: 2002 (1ª edição: 2000). 138 P ISBN: 85-85676-80-9",
+    "isbn_issn":"85-85676-80-9"
+  },
+  {
+    "id":69,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"Freitas CM, Porto MFS, Machado JMH, organizadores. Acidentes industriais ampliados: desafios e perspectivas para o controle e a prevenção. Rio de Janeiro: Editora Fiocruz; 2000.",
+    "isbn_issn":"85-85676-72-8. 2000."
+  },
+  {
+    "id":70,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"Minayo MCS, Miranda AC. Saúde e ambiente sustentável: estreitando os nós. Rio de Janeiro: Ed. Fiocruz/Abrasco; 2002.",
+    "isbn_issn":"85-85471-11-5"
+  },
+  {
+    "id":71,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Papini S. Vigilância em Saúde Ambiental - Uma Nova Área da Ecologia.2ª ed. revista e ampliada. Rio de Janeiro: Editora Atheneu; 2012",
+    "isbn_issn":"9788538802198"
+  },
+  {
+    "id":72,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Philippi Junior, Arlindo. Saneamento, saude e ambiente, fundamentos para um desenvolvimento sustentavel. ISBN: 8520421881 ISBN-13: 9788520421888 Editora: MANOLE",
+    "isbn_issn":"8520421881 (ISBN-13: 9788520421888)"
+  },
+  {
+    "id":73,
+    "disc_id":115,
+    "disc_nome":"Saúde e Vigilância Ambiental",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"AKERMAN, Marco . Saúde e desenvolvimento local: princípios, conceitos, práticas e cooperação técnica. São Paulo: Hucitec, 2005.",
+    "isbn_issn":"9788527106856"
+  },
+  {
+    "id":74,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"basica",
+    "citacao":"Rossetti, José Paschoal, Introdução à Economia. Editora Atlas, 992 pg, 2003",
+    "isbn_issn":"9788522434671"
+  },
+  {
+    "id":75,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"basica",
+    "citacao":"Stiglitz, J. E. Introdução à Microeconomia. 2003",
+    "isbn_issn":"9788535210446"
+  },
+  {
+    "id":76,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"complementar",
+    "citacao":"Moraes, O. J. Economia Ambiental - Instrumentos Econômicos para o Desenvolvimento Sustentável. Editora Centauro. 224pg. 2009",
+    "isbn_issn":"9788579280030"
+  },
+  {
+    "id":77,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"complementar",
+    "citacao":"Huberman, L. História da Riqueza do Homem. Editora LTC. 2010",
+    "isbn_issn":"9788521617341"
+  },
+  {
+    "id":78,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"complementar",
+    "citacao":"Motta, R. S. Economia Ambiental. Editora FGV. 399 pg. 2008.",
+    "isbn_issn":"978-8522505449"
+  },
+  {
+    "id":79,
+    "disc_id":125,
+    "disc_nome":"Economia Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"basica",
+    "citacao":"Hirschfeld, H. Engenharia Econômica e Analise de Custos. Editora Atlas. 519 pg. 2001.",
+    "isbn_issn":"8522426627"
+  },
+  {
+    "id":80,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"basica",
+    "citacao":"NBR ISO 14001:2015 . Sistemas de gestão ambiental — Requisitos com orientações para uso",
+    "isbn_issn":""
+  },
+  {
+    "id":81,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "tipo":"outros",
+    "quantidade":20,
+    "uso":"basica",
+    "citacao":"NBR ISO 14004:2005 Versão Corrigida 2:2007  Sistemas de gestão ambiental - Diretrizes gerais sobre princípios, sistemas e técnicas de apoio",
+    "isbn_issn":""
+  },
+  {
+    "id":82,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "tipo":"outros",
+    "quantidade":20,
+    "uso":"basica",
+    "citacao":"NBR ISO 19011:2012  Diretrizes para auditoria de sistemas de gestão",
+    "isbn_issn":""
+  },
+  {
+    "id":83,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "tipo":"livro",
+    "quantidade":40,
+    "uso":"basica",
+    "citacao":"Moura, L.A.A. Qualidade e Gestão Ambiental - Sustentabilidade e ISO 14.001.  Editora Del Rey. 418 pg. 2011.",
+    "isbn_issn":"9788538401766"
+  },
+  {
+    "id":84,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"complementar",
+    "citacao":"Seiffert, M. E. B. Sistemas de Gestão Ambiental (SGA - ISO 14001). Editora Atlas. 168 pg. 2011",
+    "isbn_issn":"9788522462612"
+  },
+  {
+    "id":85,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "tipo":"livro",
+    "quantidade":40,
+    "uso":"basica",
+    "citacao":"Seiffert, M. E. B. ISO 14001 Sistemas de Gestão Ambiental - Implantação Objetiva e Econômica. Editora Atlas. 256 pg. 2011.",
+    "isbn_issn":"9788522461523"
+  },
+  {
+    "id":86,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "tipo":"outros",
+    "quantidade":20,
+    "uso":"complementar",
+    "citacao":"NBR ISO 14021:2013  Rótulos e declarações ambientais - Autodeclarações ambientais (Rotulagem do tipo II)",
+    "isbn_issn":""
+  },
+  {
+    "id":87,
+    "disc_id":150,
+    "disc_nome":"Sistemas de Gestão Ambiental",
+    "tipo":"outros",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"NBR ISO 14031:2015  Gestão ambiental - Avaliação de desempenho ambiental - Diretrizes",
+    "isbn_issn":""
+  },
+  {
+    "id":88,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"Introdução ao Gerenciamento dos Recursos Hídricos",
+    "isbn_issn":""
+  },
+  {
+    "id":89,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "tipo":"juridico",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"Política Nacional de recursos Hídricos Lei 9433/1997",
+    "isbn_issn":""
+  },
+  {
+    "id":90,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"A evolução da gestão dos recursos hídricos no Brasil",
+    "isbn_issn":""
+  },
+  {
+    "id":91,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"Experiências de Gestão dos Recursos Hídricos",
+    "isbn_issn":""
+  },
+  {
+    "id":92,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"Brasil: A gestão da qualidade da água",
+    "isbn_issn":""
+  },
+  {
+    "id":93,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"Manual de Outorga de uso da água do Estado do Tocantins",
+    "isbn_issn":""
+  },
+  {
+    "id":94,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "tipo":"juridico",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"Decreto 2432/2005 - regulamenta a outorga de uso da água no Estado do Tocantins",
+    "isbn_issn":""
+  },
+  {
+    "id":95,
+    "disc_id":134,
+    "disc_nome":"Gestão dos Recursos Hídricos",
+    "tipo":"juridico",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"Lei 1307/2002 Política Estadual de recursos Hídricos - Tocantins",
+    "isbn_issn":""
+  },
+  {
+    "id":96,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"JUNQUEIRA, LCU. 8a ed. Biologia celular e molecular. Guanabara Kooogan S. A. RJ. 332p. 2005.",
+    "isbn_issn":""
+  },
+  {
+    "id":97,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"RUPPERT, EE. Zoologia dos invertebrados. Roca. SP. 1145p. 2005.",
+    "isbn_issn":""
+  },
+  {
+    "id":98,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Orr, Robert T., Biologia dos vertebrados / 5.ed. São Paulo, SP : Roca, 1986 x,508 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":99,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "tipo":"livro",
+    "quantidade":20,
+    "uso":"basica",
+    "citacao":"SADAVA, D.; RENARD, DG, BONAN, CD. Vida: a ciência da Biologia. 8a ed. Vol. 1. Artmed. Porto Alegre, RS. 2009.",
+    "isbn_issn":""
+  },
+  {
+    "id":100,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"AVERSI-FERREIRA, TA, Biologia celular e molecular / 2. ed. rev. e ampl. Campinas, SP: Átomo, 2013. 262 p.:",
+    "isbn_issn":""
+  },
+  {
+    "id":101,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"SADAVA, D.; RENARD, DG, BONAN, CD. Vida: a ciência da Biologia. 8a ed. Vol. 2. Artmed. Porto Alegre, RS. 2009.",
+    "isbn_issn":""
+  },
+  {
+    "id":102,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"SADAVA, D.; RENARD, DG, BONAN, CD. Vida: a ciência da Biologia. 8a ed. Vol. 3. Artmed. Porto Alegre, RS. 2009.",
+    "isbn_issn":""
+  },
+  {
+    "id":103,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"LAKATOS, E. M., MARCONI, M. A. Fundamentos de metodologia científica. 7ed. São Paulo: Atlas. 270p. 2010",
+    "isbn_issn":""
+  },
+  {
+    "id":104,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"OLIVEIRA NETTO, ALVIM ANTONIO DE., Metodologia da Pesquisa Científica :guia prático para apresentação de trabalhos acadêmicos / 3.ed. rev. e atual. São Paulo : Visual Books, 2008. 192 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":105,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"LAKATOS, E. M., MARCONI, M. A. Metodologia científica. 6ed. São Paulo: Atlas. 314p. 2011.",
+    "isbn_issn":""
+  },
+  {
+    "id":106,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"LAKATOS, E. M., MARCONI, M. A. Metodologia científica. 6ed. São Paulo: Atlas. 314p. 2011.",
+    "isbn_issn":""
+  },
+  {
+    "id":107,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"SEVERINO, Antônio Joaquim. Metodologia do trabalho científico. Cortez editora, 2014.",
+    "isbn_issn":"9788524924484"
+  },
+  {
+    "id":108,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"SEVERINO, Antônio Joaquim. Metodologia do trabalho científico. Cortez editora, 2014.",
+    "isbn_issn":""
+  },
+  {
+    "id":109,
+    "disc_id":122,
+    "disc_nome":"Trabalho de Conclusão de Curso I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"LEITE, F.T. Metodologia Científica. Métodos e técnicas de pesquisa (monografias, Dissertações, Teses e Livros). Aparecida: Idéias & Letras, 2008.",
+    "isbn_issn":"9788598239941"
+  },
+  {
+    "id":110,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"LEITE, F.T. Metodologia Científica. Métodos e técnicas de pesquisa (monografias, Dissertações, Teses e Livros). Aparecida: Idéias & Letras, 2008.",
+    "isbn_issn":"9788598239941"
+  },
+  {
+    "id":111,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"OLIVEIRA NETTO, ALVIM ANTONIO DE., Metodologia da Pesquisa Científica :guia prático para apresentação de trabalhos acadêmicos / 3.ed. rev. e atual. São Paulo : Visual Books, 2008. 192 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":112,
+    "disc_id":128,
+    "disc_nome":"Trabalho de Conclusão de Curso II",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"LAKATOS, E. M., MARCONI, M. A. Fundamentos de metodologia científica. 7ed. São Paulo: Atlas. 270p. 2010",
+    "isbn_issn":""
+  },
+  {
+    "id":113,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"BOSCOV, M.E.G. Geotecnia Ambiental. 1. Ed. São Paulo : Oficina de Textos, 2008. 248 p.",
+    "isbn_issn":"978-85-862-3873-4"
+  },
+  {
+    "id":114,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"ZUQUETTE, L.V. Geotecnia Ambiental. 1. Ed. São Paulo : Elsevier , 2015. 432 p.",
+    "isbn_issn":"978-85-352-8058-6"
+  },
+  {
+    "id":115,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"OLIVEIRA, A. M.S., BRITO, S.N.A. Geologia de Engenharia. São Paulo : ABGE, 1998. 587 p.",
+    "isbn_issn":"978-85-727-000-2"
+  },
+  {
+    "id":116,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"GIAMPÁ, C.E.Q.; GONÇALVES, V. G. Águas Subterrâneas e Poços Tubulares Profundos. 2. ed. São Paulo : Oficina de Textos, 2013. 496 p",
+    "isbn_issn":"978-85-797-5086-1"
+  },
+  {
+    "id":117,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "tipo":"livro",
+    "quantidade":3,
+    "uso":"complementar",
+    "citacao":"QUEIROZ, RUDNEY C. Geologia e Geotecnia Básica para Engenharia Civil. 1. ed. São Paulo : Bluncher, 2016. 416 p.",
+    "isbn_issn":"978-85-212-0956-0"
+  },
+  {
+    "id":118,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "tipo":"livro",
+    "quantidade":2,
+    "uso":"complementar",
+    "citacao":"BATES, J.  Barragens de Rejeitos. São Paulo: Signus Editora, 2002. 112 p.",
+    "isbn_issn":"978-85-847-8031-6."
+  },
+  {
+    "id":119,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"MORAES, S.L.; TEIXEIRA, C.E.; MAXIMIANO, A.M.S. Guia de elaboração de planos de intervenção para o gerenciamento de áreas contaminadas. 1. ed. rev. São Paulo : IPT, 2014.395 p. Disponível em: https://www.google.com.br/#q=GERENCIAMENTO+DE+%C3%81REAS+CONTAMINADAS+IPT. Acesso em: 17/01/2017.",
+    "isbn_issn":"978-85-09-00179-7"
+  },
+  {
+    "id":120,
+    "disc_id":103,
+    "disc_nome":"Geotecnia Ambiental",
+    "tipo":"livro",
+    "quantidade":2,
+    "uso":"complementar",
+    "citacao":"SCHIANETZ, B. Passivos Ambientais: levantamento histórico da periculosidade: ações de recuperação. Curitiba : SENAI-PR, 1999",
+    "isbn_issn":""
+  },
+  {
+    "id":121,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"BAIRD, C.; CANN, M. Química ambiental. 4ed. Porto Alegre :Ed. Bookman. 2011. 844p.",
+    "isbn_issn":"9788577808489"
+  },
+  {
+    "id":122,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"SPIRO, T. G.; STIGLIANI, W. M. Química ambiental. 2ed. Ed. São Paulo: Prentice Hall. 2008. 352p.",
+    "isbn_issn":"9788576051961."
+  },
+  {
+    "id":123,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"RANGEL, M. B. A.; NOWACKI, C. C. B. Química ambiental: conceitos, processos e estudo dos impactos ao meio ambiente. São Paulo : Ed. Érica. 2014. 136p.",
+    "isbn_issn":"9788536509051"
+  },
+  {
+    "id":124,
+    "disc_id":97,
+    "disc_nome":"Química Ambiental",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"complementar",
+    "citacao":"ROCHA, J. C.; ROSA, A. H.; CARDOSO, A. A. Introdução à química ambiental. 2ed.Porot Alegre : Ed. Bookman. 2009. 256p.",
+    "isbn_issn":"9788577804696."
+  },
+  {
+    "id":125,
+    "disc_id":107,
+    "disc_nome":"Recursos Energéticos I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"LEITE, A.E. Recursos Energéticos e Ambiente. Curitiba : Ed. Intersaberes. 2015. 320p.",
+    "isbn_issn":"978-8544301449"
+  },
+  {
+    "id":126,
+    "disc_id":107,
+    "disc_nome":"Recursos Energéticos I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"JUNIOR, A.P. Matrizes Energéticas: Conceitos e Usos em Gestão e Planejamento. Barueri : Ed. Manole. 2010. 204 p.",
+    "isbn_issn":"978-8520430385"
+  },
+  {
+    "id":127,
+    "disc_id":107,
+    "disc_nome":"Recursos Energéticos I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"basica",
+    "citacao":"RIBEIRO, J. A. Recursos Naturais como Insumo Energético. Um Estudo do Uso da Biomassa Florestal. Curitiba : Ed. Appris. 2016. 97 p.",
+    "isbn_issn":"978-8581929682"
+  },
+  {
+    "id":128,
+    "disc_id":107,
+    "disc_nome":"Recursos Energéticos I",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"BOBIN, J. A Energia. Ed. Instituto Piaget.  1998. 140 p.",
+    "isbn_issn":"978-9727711864"
+  },
+  {
+    "id":129,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"ATKINS, P.; Jones, L.; Princípios de Química – Questionando a Vida Moderna e o Meio Ambiente, 5º Ed.; São Paulo: Editora Bookman. 2011.",
+    "isbn_issn":"85-363-0668-8"
+  },
+  {
+    "id":130,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"BROWN, T. L., LeMay, H. E., Bursten, B. E. Burdge, J. R.; Química a Ciência Central. 9 ed. São Paulo: Editora Makron Books do Brasil. 2005.",
+    "isbn_issn":"85-87918-42-7"
+  },
+  {
+    "id":131,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"BRADY, J. E.; Senese, F. Química – a Matéria e suas Transformações, 5º Edição, Volume 1 e 2, Editora LTC, 2009.",
+    "isbn_issn":"978-85-216-1721.1 (v.2); 978-85-216-1720.4 (v.1)"
+  },
+  {
+    "id":132,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"KOTZ, J. C.; Treichel, P.M.; Weaver, G.C. Química Geral e Reações Químicas, Vol. 1 e 2, Editora Cengang Learning, Tradução da 6º Edição Norte Americana, 2009.",
+    "isbn_issn":"978-85-221-0691-2"
+  },
+  {
+    "id":133,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"BROWN, L. S.; HOLME, T. A.; Química Geral Aplicada à Engenharia, Editora Cengage Learning, 2009.",
+    "isbn_issn":"978-85-221-0688-2"
+  },
+  {
+    "id":134,
+    "disc_id":106,
+    "disc_nome":"Química Geral",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"RUSSEL, J. B., Química Geral. Vol 1 e 2;  2 ed.; São Paulo; Editora Makron Books do Brasil; 1994.",
+    "isbn_issn":""
+  },
+  {
+    "id":135,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"HARRIS, D. C. Análise Química Quantitativa. 8ª Edição., Rio de Janeiro, Editora  Livros Técnicos e Científicos S. A., 2012.",
+    "isbn_issn":"978-85-216-2042-6"
+  },
+  {
+    "id":136,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"SKOOG, D. A.; West, D. A.; Holler, F. J.; Crouch, S. R.; Fundamentos de Química Analítica, 9ª Edição, Editora Thomson, 2014.",
+    "isbn_issn":"978-85-221-1660-7"
+  },
+  {
+    "id":137,
+    "disc_id":78,
+    "disc_nome":"Química Analítica",
+    "tipo":"livro",
+    "quantidade":15,
+    "uso":"complementar",
+    "citacao":"VOGEL, A. I. Analise Química Quantitativa. 6 ed. Rio de Janeiro: Livros Técnicos e Científicos. 2002.",
+    "isbn_issn":""
+  },
+  {
+    "id":138,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"SOLOMONS, T. W. G., FRYHLE, C. B.; Química Orgânica, Editora LTC, Vol 1, 10ª Edição, Rio de Janeiro, 2012.",
+    "isbn_issn":""
+  },
+  {
+    "id":139,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"SOLOMONS, T. W. G., FRYHLE, C. B.; Química Orgânica, Editora LTC, Vol 2, 10ª Edição, Rio de Janeiro, 2012.",
+    "isbn_issn":""
+  },
+  {
+    "id":140,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"CARREY, F. A.; Química Orgânica, 7º Edição, Editora Bookman, Vol. 1, 2011.",
+    "isbn_issn":"978-85-8055-053-5"
+  },
+  {
+    "id":141,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"CARREY, F. A.; Química Orgânica, 7º Edição, Editora Bookman, Vol. 2, 2011.",
+    "isbn_issn":"978-85-63308-89-4"
+  },
+  {
+    "id":142,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"BRUICE, P. Y.; Química Orgânica, Editora Pearson Prentice Hall, Vol 1, 4º Edição, 2006.",
+    "isbn_issn":""
+  },
+  {
+    "id":143,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "tipo":"livro",
+    "quantidade":22,
+    "uso":"basica",
+    "citacao":"BRUICE, P. Y.; Química Orgânica, Editora Pearson Prentice Hall, Vol 2, 4º Edição, 2006.",
+    "isbn_issn":""
+  },
+  {
+    "id":144,
+    "disc_id":87,
+    "disc_nome":"Química Orgânica",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"complementar",
+    "citacao":"McMURRY, J.; Química Orgânica COMBO, Tradução da 6º Edição Norte-Americana, Editora Thomson, 2005.",
+    "isbn_issn":""
+  },
+  {
+    "id":145,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"Martland, Carl D. Avaliação de Projetos: Por uma Infraestrutura Sustentável. LTC:São Paulo. 1014. 424p.",
+    "isbn_issn":"9788521624004"
+  },
+  {
+    "id":146,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"ANDERSON, PHILIPKORTSCHOT, MARK T.MCCAHAN, SUSAN. PROJETOS DE ENGENHARIA - UMA INTRODUÇAO. LTC: São Paulo. 2014",
+    "isbn_issn":"521634455"
+  },
+  {
+    "id":147,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "tipo":"outros",
+    "quantidade":0,
+    "uso":"outro",
+    "citacao":"O que é Gerenciamento de Projetos? disponível em:<https://brasil.pmi.org/brazil/AboutUs/WhatIsProjectManagement.aspx>. Acesso em: 14 maio 2018.",
+    "isbn_issn":""
+  },
+  {
+    "id":148,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"basica",
+    "citacao":"Brunetti, Franco., Mecânica dos fluidos / 2.ed.rev. São Paulo : Prentice Hall, 2008. 431 p",
+    "isbn_issn":"9788581433035"
+  },
+  {
+    "id":149,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"BRASIL. Fundação Nacional de Saúde. Manual de Saneamento. 3a ed. Brasília: Fundação Nacional de Saúde, 2016. 408 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":150,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "tipo":"juridico",
+    "quantidade":1,
+    "uso":"basica",
+    "citacao":"BRASIL. Lei 12305. Política Nacional de Resíduos Sólidos",
+    "isbn_issn":""
+  },
+  {
+    "id":151,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"basica",
+    "citacao":"BRAGA, B. et al. Introdução a Engenharia Ambiental. São Paulo: Ed. Prentice Hall, 2002.",
+    "isbn_issn":""
+  },
+  {
+    "id":152,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"basica",
+    "citacao":"MOTA, S. Introdução à Engenharia Ambiental. Rio de Janeiro: Ed. ABES, 2000.",
+    "isbn_issn":""
+  },
+  {
+    "id":153,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"MONTEIRO, J. H. P. et al. Manual de gerenciamento integrado de resíduos sólidos. Rio de Janeiro, IBAM, 2001. 200 p. Disponível em: < www.web-resol.org/cartilha4/manual.pdf>. Acesso em 30 ago. 2010.",
+    "isbn_issn":""
+  },
+  {
+    "id":154,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "tipo":"juridico",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS-ABNT. NBR 13896 - Aterros de resíduos não perigosos: critérios para projeto, implantação e operação. Rio de Janeiro, 1997.",
+    "isbn_issn":""
+  },
+  {
+    "id":155,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "tipo":"juridico",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS-ABNT. NBR 8419 - Apresentação de projetos de aterros sanitários de resíduos sólidos urbanos - Procedimento. Rio de Janeiro, 1996.",
+    "isbn_issn":""
+  },
+  {
+    "id":156,
+    "disc_id":118,
+    "disc_nome":"Projeto e Gestão dos Resíduos Sólidos",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"PEREIRA NETO, João Tinôco. Manual de compostagem: processo de baixo custo. 1. ed. Viçosa, MG: Ed. da UFV, 2007. 81 p. (Soluções).",
+    "isbn_issn":""
+  },
+  {
+    "id":157,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"complementar",
+    "citacao":"BRASIL. Fundação Nacional de Saúde. Manual de Saneamento. 3a ed. Brasília: Fundação Nacional de Saúde, 2016. 408 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":158,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"GUERRA, Antonio José Teixeira; CUNHA, Sandra Baptista da (Org.). Impactos ambientais urbanos no Brasil. 6.ed. Rio de Janeiro: Bertrand Brasil, 2010. 416 p.",
+    "isbn_issn":"9788528608021"
+  },
+  {
+    "id":159,
+    "disc_id":144,
+    "disc_nome":"Introdução A Engenharia Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"FELLENBERG, Gunter. Introdução aos problemas da poluição ambiental. São Paulo, SP: EPU: 1980. xvi, 196 p.",
+    "isbn_issn":"8512490403"
+  },
+  {
+    "id":160,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"PINTO, W.D. Legislação Federal de meio ambiente. IBAMA, Brasília, 1996.",
+    "isbn_issn":""
+  },
+  {
+    "id":161,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "tipo":"livro",
+    "quantidade":1,
+    "uso":"basica",
+    "citacao":"ANTUNES, Paulo de Bessa. Direito Ambiental. Rio de Janeiro: Lumen Juris.",
+    "isbn_issn":""
+  },
+  {
+    "id":162,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"BENJAMIN, Antonio Herman V (coord.). Dano ambiental: prevenção, reparação e repressão. São Paulo: Revista dos Tribunais.",
+    "isbn_issn":""
+  },
+  {
+    "id":163,
+    "disc_id":114,
+    "disc_nome":"Direito Ambiental",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"FIORILLO, Celso Antonio P. Curso de Direito Ambiental Brasileiro. São Paulo: Saraiva.",
+    "isbn_issn":""
+  },
+  {
+    "id":164,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"MELCONIAN, S.. Mecânica técnica e Resistência dos Materiais. 9. ed., rev. atualizada. São Paulo: Érica. 2013",
+    "isbn_issn":""
+  },
+  {
+    "id":165,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"BERR, F.P.; JOHNSTON, E. R. Resistência dos Materiais. São Paulo, Makron Books, 2010. GARE, J. M. Mecânica dos Materiais. São Paulo: Pioneira Thomson Learning, 2011. 698 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":166,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "tipo":"livro",
+    "quantidade":8,
+    "uso":"basica",
+    "citacao":"HIBBELER, R. C.. Resistência dos Materiais. 3ª ed. Rio de Janeiro: LTC, 2000.",
+    "isbn_issn":""
+  },
+  {
+    "id":167,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "tipo":"livro",
+    "quantidade":6,
+    "uso":"basica",
+    "citacao":"CHIAVERINI, V. (1986). Tecnologia Mecânica, vol. I, II e III, 2ª ed. Brasil, S. Paulo: Editora McGraw-Hill.",
+    "isbn_issn":""
+  },
+  {
+    "id":168,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "tipo":"livro",
+    "quantidade":4,
+    "uso":"complementar",
+    "citacao":"NASH, W.A. Resistência dos Materiais. São Paulo, Mc Graw Hill, 1982.",
+    "isbn_issn":""
+  },
+  {
+    "id":169,
+    "disc_id":93,
+    "disc_nome":"Resistência dos Materiais",
+    "tipo":"livro",
+    "quantidade":4,
+    "uso":"complementar",
+    "citacao":"TIMOSHENKO, S. P.. Mecânica dos sólidos. Rio de Janeiro: LTC. 1989.",
+    "isbn_issn":""
+  },
+  {
+    "id":170,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "tipo":"livro",
+    "quantidade":6,
+    "uso":"basica",
+    "citacao":"COLLINS, J. A.: Projeto Mecânico de Elementos de Máquinas: Uma Perspectiva de Prevenção da Falha. 1º Edição. LTC, 2006.",
+    "isbn_issn":""
+  },
+  {
+    "id":171,
+    "disc_id":124,
+    "disc_nome":"Noções Básicas de Máquinas e Equipamentos",
+    "tipo":"livro",
+    "quantidade":4,
+    "uso":"complementar",
+    "citacao":"BEER, F, P.; JOHNSTON, R.: Mecânica Vetorial para Engenheiros. 7º Edição. Makron Books. 2006.",
+    "isbn_issn":""
+  },
+  {
+    "id":172,
+    "disc_id":119,
+    "disc_nome":"Planejamento Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"OLIVEIRA, F. E. M. de. Estatística e Probabilidade. São Paulo: Ed. Atlas, 221p. 1999.",
+    "isbn_issn":""
+  },
+  {
+    "id":173,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Metodos numericos para a resolução de problemas logicos. Del Picchia, Walter. E. Blucher, xii, 395 p. ;",
+    "isbn_issn":"UFT00049425"
+  },
+  {
+    "id":174,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Conjuntos numericos e potencias. Dienes, Zoltan P. EPU,3.ed. rev.- 141 p.:",
+    "isbn_issn":"UFT00032568"
+  },
+  {
+    "id":175,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Construção e propriedades de alguns conjuntos numéricos. Bastos, Evangelino de Oliveira. 63 f.",
+    "isbn_issn":"UFT00093836"
+  },
+  {
+    "id":176,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Padrões numericos e sequências. Carvalho, Maria Cecilia Costa e Silva. Moderna, 79p.",
+    "isbn_issn":"UFT00068356"
+  },
+  {
+    "id":177,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Calculo numerico. Franco, Neide Bertoldi. Pearson Prentice Hall. 505p.",
+    "isbn_issn":"UFT00069713"
+  },
+  {
+    "id":178,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Calculo numerico : aspectos teoricos e computacionais. Ruggiero, Marcia A. Gomes. Makron Books,2.ed.-406p.",
+    "isbn_issn":"UFT00032917"
+  },
+  {
+    "id":179,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Calculo numerico com aplicações. Harbra, 2. ed.-367p.;",
+    "isbn_issn":"UFT00049116"
+  },
+  {
+    "id":180,
+    "disc_id":139,
+    "disc_nome":"Métodos Numéricos",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Cálculo numérico. Características matemáticas e computacionais dos métodos numéricos. Sperandio. Décio.Pearson Prentice Hall. 354p.",
+    "isbn_issn":"UFT00079402"
+  },
+  {
+    "id":181,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Instrumentacao industrial Interciencia, 2 ed. 583 p.",
+    "isbn_issn":"UFT00087969"
+  },
+  {
+    "id":182,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Instrumentacao, controle e automacao de processos Alves, Jose Luiz Loureiro. LTC Ed., 270p.",
+    "isbn_issn":"UFT00067310"
+  },
+  {
+    "id":183,
+    "disc_id":135,
+    "disc_nome":"Eletricidade aplicada e Instrumentação Ambiental",
+    "tipo":"livro",
+    "quantidade":10,
+    "uso":"basica",
+    "citacao":"Circuitos experimentais em eletricidade e eletrônica Tucci, Wilson J. Nobel, il.",
+    "isbn_issn":"UFT00075461"
+  },
+  {
+    "id":184,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"Tsutiya, M.T. Além Sobrinho, P. Coleta e Transporte de Esgoto Sanitário. Departamento de Engenharia Hidráulica e Sanitária, Escola Politécnica da USP, 1999.",
+    "isbn_issn":""
+  },
+  {
+    "id":185,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"CAMPOS, J.R. (coord.). Tratamento de Esgoto Sanitário por Processo Anaeróbio e Disposição Controlada no Solo. RECOPE - PROSAB, São Carlos, SP, Brasil, 2001",
+    "isbn_issn":""
+  },
+  {
+    "id":186,
+    "disc_id":136,
+    "disc_nome":"Projeto de Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"JORDÃO, E. P. P., Tratamento de Esgotos Domésticos. 3ª Edição – Rio de Janeiro – ABES, 2010",
+    "isbn_issn":""
+  },
+  {
+    "id":187,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"DI BERNARDO, L.; DI BERNARDO, A. Métodos e Técnicas de Tratamento de Água. Volume I e II. Ed. RIMA. 2ª. Ed. 2005",
+    "isbn_issn":""
+  },
+  {
+    "id":188,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"LIBANIO, Fundamentos de Qualidade e Tratamento de Água. 3ª Ed. Belo Horizonte. 2017",
+    "isbn_issn":""
+  },
+  {
+    "id":189,
+    "disc_id":146,
+    "disc_nome":"Tratamento de Água",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"DI BERNARDO, L., DANTAS, A D. B., VOLTAN, P. E. N. Tratabilidade de Água e dos resíduos gerados em estações de tratamento de água. São Carlos, LDiBe editora, 2011",
+    "isbn_issn":""
+  },
+  {
+    "id":190,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"DI BERNARDO, L.; DI BERNARDO, A. Métodos e Técnicas de Tratamento de Água. Volume I e II. Ed. RIMA. 2ª. Ed. 2005",
+    "isbn_issn":""
+  },
+  {
+    "id":191,
+    "disc_id":105,
+    "disc_nome":"Processos e Operações Unitárias Aplicados Na Engenharia Ambiental",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"JORDÃO, E. P. P., Tratamento de Esgotos Domésticos. 3ª Edição – Rio de Janeiro – ABES, 2010",
+    "isbn_issn":""
+  },
+  {
+    "id":192,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"AZEVEDO NETTO. Manual de Hidráulica. Ed. Edgard Blucher. 8a Edição. São Paulo/SP.1998.",
+    "isbn_issn":""
+  },
+  {
+    "id":193,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"TSUTIYA, M.T. Abastecimento de Água. 1ª Edição. Departamento de Engenharia Hidráulica e Sanitária da Escola Politécnica da USP. 2004.",
+    "isbn_issn":""
+  },
+  {
+    "id":194,
+    "disc_id":123,
+    "disc_nome":"Projeto de Sistemas de Abastecimento e de Tratamento de Água",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"basica",
+    "citacao":"HELLER & PÁDUA. Abastecimento de Água para Consumo Humano. Ed. UFMG. Belo Horizonte/MG. 2006",
+    "isbn_issn":""
+  },
+  {
+    "id":195,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"basica",
+    "citacao":"MASSARI. VICTOR L. Gerenciamento Ágil de Projetos. Brasport:2014. 256p.",
+    "isbn_issn":"978-85-7452-696-6"
+  },
+  {
+    "id":196,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"basica",
+    "citacao":"Keelling,Ralph e Branco, Renato Henrique Ferreira. Gestão de Projetos - Uma Abordagem Global - 3ª Ed. 2014. 288p.",
+    "isbn_issn":"9788502227101"
+  },
+  {
+    "id":197,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"complementar",
+    "citacao":"Monteiro Teixeira, Júlio. Gestão Visual De Projetos - Utilizando A Informação Para Inovar. Saraiva: São Paulo. 2014. 209p.",
+    "isbn_issn":"9788550801711"
+  },
+  {
+    "id":198,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"complementar",
+    "citacao":"Guerreiro, Fernando.FERRAMENTAS ESTRATÉGICAS NA GESTÃO DE PROJETOS. Saraiva:São Paulo. 2016. e-book.",
+    "isbn_issn":""
+  },
+  {
+    "id":199,
+    "disc_id":129,
+    "disc_nome":"Elaboração de Projetos em Engenharia",
+    "tipo":"livro",
+    "quantidade":0,
+    "uso":"complementar",
+    "citacao":"Guide to the Project Management Body of Knowledge (PMBOK® Guide). PMI. 6 ed. 2017",
+    "isbn_issn":""
+  },
+  {
+    "id":200,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"basica",
+    "citacao":"BORESI, A. P.; SCHMIDT, R. J. Estática. São Paulo: Pioneira Thomson Learning, 2003. 673 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":201,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"",
+    "quantidade":11,
+    "uso":"",
+    "citacao":"HIBBELER, R. C. Mecânica, Estática. 12. ed .. Rio de Janeiro: LTC Editora. 2011. 265p.",
+    "isbn_issn":""
+  },
+  {
+    "id":202,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"basica",
+    "citacao":"MERIAM, J. L.; KRAICE, L. G; GLENN, L.. Mecânica para Engenharia: Estática. 7° ed. Rio e Janeiro: LTC. 2016.",
+    "isbn_issn":""
+  },
+  {
+    "id":203,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"complementar",
+    "citacao":"GIACAGLIA, GIORGIO E. O. Mecânica Geral. 10ª ed. Rio de Janeiro: Campus. 1982.",
+    "isbn_issn":""
+  },
+  {
+    "id":204,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"HIGDON-STILES, D. et. al. Mecânica. Rio de Janeiro, Prentice-Hall, 1984.",
+    "isbn_issn":""
+  },
+  {
+    "id":205,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"KAMINSKI, R.  . Mecânica Geral para Engenheiros. 1 ° ed .. Editora: dgard Blücher Ltda, São Paulo, 2000, 300p.",
+    "isbn_issn":""
+  },
+  {
+    "id":206,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"SONNINO, S. Mecânica Geral. 3° ed. Editora Nobel",
+    "isbn_issn":""
+  },
+  {
+    "id":207,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"SINGER, F. L.. Mecânica para engenheiros. 2.00 . São Paulo: Harbra. 1981",
+    "isbn_issn":""
+  },
+  {
+    "id":208,
+    "disc_id":89,
+    "disc_nome":"Mecânica da Engenharia",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"basica",
+    "citacao":"Beer, Ferdinand P.; Johnston, E. Russell;Eisenberg, Elliot R. Mecânica Vetorial Para Engenheiros - Estática - 9ª Ed. São Paulo: MacGrawHill, 2011",
+    "isbn_issn":""
+  },
+  {
+    "id":209,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"basica",
+    "citacao":"FOX, Robert W; MCDONALD, Alan T. Introdução à mecânica dos. 5. ed. Rio de Janeiro : LTC, 2001. 504 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":210,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "tipo":"livro",
+    "quantidade":11,
+    "uso":"basica",
+    "citacao":"GILES, Ranald V. Mecânica de fluidos e hidráulica. 2. ed. São Paulo : Makron, 1996. 460 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":211,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"MUNSON, Bruce R. Fundamentos da mecanica dos fluidos. São Paulo : E. Blücher, 1997. 412 p",
+    "isbn_issn":""
+  },
+  {
+    "id":212,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"CATTANI, Mauro S. D. Elementos de mecanica dos fluidos. Sao Paulo : E. Blucher, c1990. 155p.",
+    "isbn_issn":""
+  },
+  {
+    "id":213,
+    "disc_id":90,
+    "disc_nome":"Fenômenos de Transporte",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"ROMA, Woodrow N. L. Fenomenos de transporte para engenharia 2.ed. São Paulo: RiMa, 2006. 276 p.",
+    "isbn_issn":""
+  },
+  {
+    "id":214,
+    "disc_id":126,
+    "disc_nome":"Biologia",
+    "tipo":"livro",
+    "quantidade":5,
+    "uso":"complementar",
+    "citacao":"Hickman Jr, C.P. et al. 16a. ed. 2016. Princípios Integrados de Zoologia. Guanabara Koogan, R.J.",
+    "isbn_issn":"9788527729369"
+  }
+]

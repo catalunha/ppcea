@@ -1,3 +1,27 @@
+
+# Script fera
+~~~
+sqlite3 members.db "select bib.id,bib.tipo, bib.citacao,disc.id,disc.nome,bib.isbn_issn,bib.quantidade,bib.uso from matrizcurricular_bibliografia as bib, matrizcurricular_disciplina as disc where bib.disciplina_id=disc.id limit 10" | awk -F'|' '
+   # sqlite output line - pick up fields and store in arrays
+   cl{ id[++i]=$1; fname[i]=$2; gname[i]=$3; genderid[i]=$4 }
+
+   END {
+      printf "[\n";
+      for(j=1;j<=i;j++){
+         printf "  {\n"
+         printf "    |id|:%d,\n",id[j]
+         printf "    |fname|:|%s|,\n",fname[j]
+         printf "    |gname|:|%s|,\n",gname[j]
+         printf "    |genderid|:%d\n",genderid[j]
+         closing="  },\n"
+         if(j==i){closing="  }\n"}
+         printf closing;
+      }
+      printf "]\n";
+   }' | tr '|' '"'
+~~~
+
+
 ### Preparar para exportar query
 ~~~
 sqlite> .output stdout
@@ -56,7 +80,29 @@ servidor_professor
 servidor_tecnico 
 ~~~
 
-### matrizcurricular_bibliografia
+
+
+
+### matrizcurricular_ppc
+~~~
+sqlite> select * from matrizcurricular_ppc;
+id          iduu                                  dtCreate                    dtUpdate                    nome      
+----------  ------------------------------------  --------------------------  --------------------------  ----------
+1           45f792f5-2003-4eff-aa8f-a52a737cbf70  2017-02-22 09:33:09.243180  2017-02-22 09:33:09.243248  2001-2    
+2           40a278d1-ecdd-49af-88a4-b1fb8a9bb049  2017-02-22 09:33:14.656011  2017-02-22 09:33:14.656063  2007-1    
+3           859c2fd5-0b72-444d-9bc0-dca77390c07c  2017-02-22 09:33:20.329844  2017-02-22 09:33:20.329904  20xx-x    
+sqlite> 
+~~~
+
+
+
+
+
+## Query
+
+### Query01
+
+#### matrizcurricular_bibliografia
 sqlite> pragma table_info('matrizcurricular_bibliografia');
 cid         name        type        notnull     dflt_value  pk        
 ----------  ----------  ----------  ----------  ----------  ----------
@@ -73,7 +119,51 @@ cid         name        type        notnull     dflt_value  pk
 10          uso         varchar(25  0                       0         
 sqlite> 
 
-### matrizcurricular_disciplina
+#### lista das bibliografias
+~~~
+sqlite> select bib.id,bib.disciplina_id,disc.nome,bib.tipo,bib.quantidade,bib.uso,bib.citacao,bib.isbn_issn from matrizcurricular_bibliografia as bib, matrizcurricular_disciplina as disc where bib.disciplina_id=disc.id limit 10;
+id|tipo|id|nome|quantidade|uso|citacao|isbn_issn
+1|livro|135|Eletricidade aplicada e Instrumentação Ambiental|10|basica|Cotrim, Ademaro A.M.B., 1939-. Instalações elétricas. 5ed. São Paulo. Pearson Pretice Hall. 2009. 08-10784. CDD 621.3192.  UFT00067178|978-85-7605-208-1
+2|livro|104|Administração e Empreendedorismo|1|basica|dasdasd asd|11
+3|livro|125|Economia Ambiental|20|basica|Economia Ambiental - Gestão de custos e investimentos, 2011. Editora Del Rey.|9788538401773
+4|livro|125|Economia Ambiental|0|basica|Manual para Valoração de Recursos Naturais, Ronaldo Seroa da Mota, 1997|Não tem
+5|livro|96|Caracterização Ambiental I|10|basica|Sano, S.M.; Almeida, S.P.; Ribeiro, J.F. (eds). Cerrado, Ecologia e Flora. Editora, Volume 1. Embrapa, Brasília, DF. 406p. 2008.|978-85-7383-397-3
+6|livro|96|Caracterização Ambiental I|10|basica|Ricklefs, R.E. A Economia da Natureza. Editora Guanabara Koogan, Rio de Janeiro, RJ, sétima edição. 503p. 2016|9788527729628
+7|livro|96|Caracterização Ambiental I|5|basica|Cullen Jr., L.; Rudran, R.; Valladares-Pádua, C. (orgs). Métodos de Estudos em Biologia da Conservação e Manejo da Vida Silvestre. Editora UFPR, segunda edição revisada. 652p. 2006.|978-8573351743
+8|livro|96|Caracterização Ambiental I|5|basica|Odum, E.P. Fundamentos em Ecologia. Fundação  Calouste Gulbenkian. Lisboa, Portugal, sétima edição. 928p. 2004.|9789723101584
+9|livro|96|Caracterização Ambiental I|5|basica|Cain, M.; Bowman, W.D.; Hacker, S.D. Ecologia. Artmed Editora. Porto Alegre, RS. 644p. 2011.|9788536325477
+10|livro|96|Caracterização Ambiental I|2|complementar|Townsend, C.R.; Begon, M. Harper, J.L. Fundamentos em Ecologia. Artmed Editora. Porto Alegre, RS. 576p. 2010|9788536320649
+~~~
+#### Script fera
+~~~
+sqlite3 db.sqlite3 "select bib.id,bib.disciplina_id,disc.nome,bib.tipo,bib.quantidade,bib.uso,bib.citacao,bib.isbn_issn from matrizcurricular_bibliografia as bib, matrizcurricular_disciplina as disc where bib.disciplina_id=disc.id" | awk -F'|' '
+   # sqlite output line - pick up fields and store in arrays
+   { id[++i]=$1; disc_id[i]=$2; disc_nome[i]=$3; tipo[i]=$4; quantidade[i]=$5; uso[i]=$6; citacao[i]=$7; isbn_issn[i]=$8 }
+
+   END {
+      printf "[\n";
+      for(j=1;j<=i;j++){
+         printf "  {\n"
+         printf "    |id|:%d,\n",id[j]
+         printf "    |disc_id|:%d,\n",disc_id[j]
+         printf "    |disc_nome|:|%s|,\n",disc_nome[j]
+         printf "    |tipo|:|%s|,\n",tipo[j]
+         printf "    |quantidade|:%d,\n",quantidade[j]
+         printf "    |uso|:|%s|,\n",uso[j]
+         printf "    |citacao|:|%s|,\n",citacao[j]
+         printf "    |isbn_issn|:|%s|\n",isbn_issn[j]
+         closing="  },\n"
+         if(j==i){closing="  }\n"}
+         printf closing;
+      }
+      printf "]\n";
+   }' | tr '|' '"' > query01.json
+~~~
+
+
+### Query02
+
+#### matrizcurricular_disciplina
 ~~~ 
 sqlite> pragma table_info('matrizcurricular_disciplina');
 cid         name        type        notnull     dflt_value  pk        
@@ -100,18 +190,54 @@ cid         name        type        notnull     dflt_value  pk
 sqlite> 
 ~~~
 
-### matrizcurricular_ppc
+Lista com as disciplinas
+
 ~~~
-sqlite> select * from matrizcurricular_ppc;
-id          iduu                                  dtCreate                    dtUpdate                    nome      
-----------  ------------------------------------  --------------------------  --------------------------  ----------
-1           45f792f5-2003-4eff-aa8f-a52a737cbf70  2017-02-22 09:33:09.243180  2017-02-22 09:33:09.243248  2001-2    
-2           40a278d1-ecdd-49af-88a4-b1fb8a9bb049  2017-02-22 09:33:14.656011  2017-02-22 09:33:14.656063  2007-1    
-3           859c2fd5-0b72-444d-9bc0-dca77390c07c  2017-02-22 09:33:20.329844  2017-02-22 09:33:20.329904  20xx-x    
-sqlite> 
+sqlite> select disc.id,disc.codigo,disc.nome,disc.periodo,disc.categoria,disc.chteorica,disc.chpratica from matrizcurricular_disciplina as disc where ppc_id=3 order by disc.periodo limit 10;
+id          codigo      sigla       nome         periodo     categoria   chteorica   chpratica 
+----------  ----------  ----------  -----------  ----------  ----------  ----------  ----------
+79          ENG103                  Cartografia              optativa    30          15        
+101         CET104                  Geoprocessa              optativa    15          30        
+107         CBI339                  Recursos En              optativa    30          15        
+124         ENG111                  Noções Bási              optativa    60          0         
+138         CAG277                  Avaliação e              optativa    30          0         
+141         Nova009                 Física Do S              optativa    30          15        
+145         Nova007                 Ecologia da              optativa    60          40        
+147         Nova005                 Caracteriza              optativa    30          15        
+148         Nova010                 Gerenciamen              optativa    30          15        
+149         Nova017                 Tratamento               optativa    30          15        
 ~~~
 
-### matrizcurricular_ementa
+#### Script fera
+~~~
+sqlite3 db.sqlite3 "select disc.id,disc.codigo,disc.nome,disc.periodo,disc.categoria,disc.chteorica,disc.chpratica from matrizcurricular_disciplina as disc where ppc_id=3 order by disc.periodo" | awk -F'|' '
+   # sqlite output line - pick up fields and store in arrays
+   { field1[++i]=$1; field2[i]=$2; field3[i]=$3; field4[i]=$4; field5[i]=$5; field6[i]=$6; field7[i]=$7; }
+
+   END {
+      printf "[\n";
+      for(j=1;j<=i;j++){
+         printf "  {\n"
+         printf "    |id|:%d,\n",field1[j]
+         printf "    |codigo|:|%s|,\n",field2[j]
+         printf "    |nome|:|%s|,\n",field3[j]
+         printf "    |periodo|:%d,\n",field4[j]
+         printf "    |categoria|:|%s|,\n",field5[j]
+         printf "    |chteorica|:%d,\n",field6[j]
+         printf "    |chpratica|:%d\n",field7[j]
+         closing="  },\n"
+         if(j==i){closing="  }\n"}
+         printf closing;
+      }
+      printf "]\n";
+   }' | tr '|' '"' > query02.json
+~~~
+
+
+
+### Query03
+
+#### matrizcurricular_ementa
 
 ~~~
 sqlite> pragma table_info('matrizcurricular_ementa');
@@ -129,7 +255,41 @@ cid         name        type        notnull     dflt_value  pk
 sqlite> 
 ~~~
 
-### matrizcurricular_disciplina_prerequisito
+Lista das ementas por disciplina
+~~~
+select ementa.id,ementa.disciplina_id,disc.nome,ementa.ordem,ementa.item from matrizcurricular_ementa as ementa, matrizcurricular_disciplina as disc where ementa.disciplina_id=disc.id limit 10;
+    
+~~~
+
+#### Script fera
+~~~
+sqlite3 db.sqlite3 "select ementa.id,ementa.disciplina_id,disc.nome,ementa.ordem,ementa.item from matrizcurricular_ementa as ementa, matrizcurricular_disciplina as disc where ementa.disciplina_id=disc.id" | awk -F'|' '
+   # sqlite output line - pick up fields and store in arrays
+   { field1[++i]=$1; field2[i]=$2; field3[i]=$3; field4[i]=$4; field5[i]=$5; }
+
+   END {
+      printf "[\n";
+      for(j=1;j<=i;j++){
+         printf "  {\n"
+         printf "    |id|:%d,\n",field1[j]
+         printf "    |disc_id|:%d,\n",field2[j]
+         printf "    |disc_nome|:|%s|,\n",field3[j]
+         printf "    |ordem|:%d,\n",field4[j]
+         printf "    |item|:|%s|\n",field5[j]
+         closing="  },\n"
+         if(j==i){closing="  }\n"}
+         printf closing;
+      }
+      printf "]\n";
+   }' | tr '|' '"' > query03.json
+~~~
+
+
+
+### Query04
+
+
+#### matrizcurricular_disciplina_prerequisito
 ~~~
 sqlite> pragma table_info('matrizcurricular_disciplina_prerequisito');
 cid|name|type|notnull|dflt_value|pk
@@ -139,101 +299,10 @@ cid|name|type|notnull|dflt_value|pk
 ~~~
 
 
-
-### matrizcurricular_ementa_dependente
-~~~
-sqlite> pragma table_info('matrizcurricular_ementa_dependente');
-cid|name|type|notnull|dflt_value|pk
-0|id|integer|1||1
-1|from_ementa_id|integer|1||0
-2|to_ementa_id|integer|1||0
-sqlite> 
-~~~
-
-## Query
-
-### Query01
-lista das bibliografias
-~~~
-sqlite> select bib.id,bib.tipo, bib.citacao,disc.id,disc.nome,bib.isbn_issn,bib.quantidade,bib.uso from matrizcurricular_bibliografia as bib, matrizcurricular_disciplina as disc where bib.disciplina_id=disc.id limit 10;
-id          tipo        citacao                                                                                                                                 id          nome                                              isbn_issn          quantidade  uso       
-----------  ----------  --------------------------------------------------------------------------------------------------------------------                    ----------  ------------------------------------------------  -----------------  ----------  ----------
-1           livro       Cotrim, Ademaro A.M.B., 1939-. Instalações elétricas. 5ed. São Paulo. Pearson Pretice Hall. 2009. 08-10784. CDD 621.3192.  UFT00067178  135         Eletricidade aplicada e Instrumentação Ambiental  978-85-7605-208-1  10          basica    
-2           livro       dasdasd asd                                                                                                                             104         Administração e Empreendedorismo                  11                 1           basica    
-3           livro       Economia Ambiental - Gestão de custos e investimentos, 2011. Editora Del Rey.                                                           125         Economia Ambiental                                9788538401773      20          basica    
-4           livro       Manual para Valoração de Recursos Naturais, Ronaldo Seroa da Mota, 1997                                                                 125         Economia Ambiental                                Não tem            0           basica    
-5           livro       Sano, S.M.; Almeida, S.P.; Ribeiro, J.F. (eds). Cerrado, Ecologia e Flora. Editora, Volume 1. Embrapa, Brasília, DF. 406p. 2008.        96          Caracterização Ambiental I                        978-85-7383-397-3  10          basica    
-6           livro       Ricklefs, R.E. A Economia da Natureza. Editora Guanabara Koogan, Rio de Janeiro, RJ, sétima edição. 503p. 2016                          96          Caracterização Ambiental I                        9788527729628      10          basica    
-7           livro       Cullen Jr., L.; Rudran, R.; Valladares-Pádua, C. (orgs). Métodos de Estudos em Biologia da Conservação e Manejo da Vida Silvestre. Edi  96          Caracterização Ambiental I                        978-8573351743     5           basica    
-8           livro       Odum, E.P. Fundamentos em Ecologia. Fundação  Calouste Gulbenkian. Lisboa, Portugal, sétima edição. 928p. 2004.                         96          Caracterização Ambiental I                        9789723101584      5           basica    
-9           livro       Cain, M.; Bowman, W.D.; Hacker, S.D. Ecologia. Artmed Editora. Porto Alegre, RS. 644p. 2011.                                            96          Caracterização Ambiental I                        9788536325477      5           basica    
-10          livro       Townsend, C.R.; Begon, M. Harper, J.L. Fundamentos em Ecologia. Artmed Editora. Porto Alegre, RS. 576p. 2010                            96          Caracterização Ambiental I                        9788536320649      2           complement
-sqlite> 
-
-~~~
-### Query01b
-lista das bibliografias por disciplina
-~~~
-sqlite> select bib.id,bib.tipo, bib.citacao,disc.id,disc.nome,bib.isbn_issn,bib.quantidade,bib.uso from matrizcurricular_bibliografia as bib, matrizcurricular_disciplina as disc where bib.disciplina_id=disc.id and disc.id=125 limit 10;
-id          tipo        citacao                                                                        id          nome                isbn_issn      quantidade  uso       
-----------  ----------  -----------------------------------------------------------------------------  ----------  ------------------  -------------  ----------  ----------
-3           livro       Economia Ambiental - Gestão de custos e investimentos, 2011. Editora Del Rey.  125         Economia Ambiental  9788538401773  20          basica    
-4           livro       Manual para Valoração de Recursos Naturais, Ronaldo Seroa da Mota, 1997        125         Economia Ambiental  Não tem        0           basica    
-74          livro       Rossetti, José Paschoal, Introdução à Economia. Editora Atlas, 992 pg, 2003    125         Economia Ambiental  9788522434671  20          basica    
-75          livro       Stiglitz, J. E. Introdução à Microeconomia. 2003                               125         Economia Ambiental  9788535210446  20          basica    
-76          livro       Moraes, O. J. Economia Ambiental - Instrumentos Econômicos para o Desenvolvim  125         Economia Ambiental  9788579280030  20          complement
-77          livro       Huberman, L. História da Riqueza do Homem. Editora LTC. 2010                   125         Economia Ambiental  9788521617341  20          complement
-78          livro       Motta, R. S. Economia Ambiental. Editora FGV. 399 pg. 2008.                    125         Economia Ambiental  978-852250544  20          complement
-79          livro       Hirschfeld, H. Engenharia Econômica e Analise de Custos. Editora Atlas. 519 p  125         Economia Ambiental  8522426627     20          basica    
-sqlite> 
-
-
-~~~
-
-
-### Query02
-Lista com as disciplinas
-
-~~~
-sqlite> select disc.id,disc.codigo,disc.sigla,disc.nome,disc.periodo,disc.categoria,disc.chteorica,disc.chpratica from matrizcurricular_disciplina as disc where ppc_id=3 order by disc.periodo limit 10;
-id          codigo      sigla       nome         periodo     categoria   chteorica   chpratica 
-----------  ----------  ----------  -----------  ----------  ----------  ----------  ----------
-79          ENG103                  Cartografia              optativa    30          15        
-101         CET104                  Geoprocessa              optativa    15          30        
-107         CBI339                  Recursos En              optativa    30          15        
-124         ENG111                  Noções Bási              optativa    60          0         
-138         CAG277                  Avaliação e              optativa    30          0         
-141         Nova009                 Física Do S              optativa    30          15        
-145         Nova007                 Ecologia da              optativa    60          40        
-147         Nova005                 Caracteriza              optativa    30          15        
-148         Nova010                 Gerenciamen              optativa    30          15        
-149         Nova017                 Tratamento               optativa    30          15        
-~~~
-
-### Query03
-Lista das ementas por disciplina
-~~~
-sqlite> select ementa.ordem,ementa.item,ementa.disciplina_id,disc.nome,ementa.subnivel_id from matrizcurricular_ementa as ementa, matrizcurricular_disciplina as disc where ementa.disciplina_id=disc.id and ementa.disciplina_id=125 order by ementa.ordem;
-ordem       item                           disciplina_id  nome                subnivel_id
-----------  -----------------------------  -------------  ------------------  -----------
-01          Conceitos básicos de economia  125            Economia Ambiental             
-02          Conceitos de Microeconomia e   125            Economia Ambiental             
-03          Economia de Mercado.           125            Economia Ambiental             
-04          Engenharia Econômica.          125            Economia Ambiental             
-05          Economia em meio ambiente.     125            Economia Ambiental             
-06          Conceitos economicos para o D  125            Economia Ambiental             
-07          Valor econômico do meio ambie  125            Economia Ambiental             
-08          Tecnicas de valoração econômi  125            Economia Ambiental             
-09          Princípio do Poluidor Usuário  125            Economia Ambiental             
-10          Gestão Econômica do Meio Ambi  125            Economia Ambiental             
-11          Instrumentos econômicos de ge  125            Economia Ambiental             
-~~~
-
-### Query04
 Lista dos prereq por disciplina
 
 ~~~
-sqlite> select pr.from_disciplina_id,discf.nome,pr.to_disciplina_id,disct.nome from matrizcurricular_disciplina_prerequisito as pr, matrizcurricular_disciplina as discf,matrizcurricular_disciplina as disct where pr.from_disciplina_id=discf.id and pr.to_disciplina_id=disct.id order by pr.from_disciplina_id limit 10;
+sqlite> select pr.id,pr.from_disciplina_id,discf.nome,pr.to_disciplina_id,disct.nome from matrizcurricular_disciplina_prerequisito as pr, matrizcurricular_disciplina as discf,matrizcurricular_disciplina as disct where pr.from_disciplina_id=discf.id and pr.to_disciplina_id=disct.id order by pr.from_disciplina_id limit 10;
 from_disciplina_id|nome|to_disciplina_id|nome
 6|Meteorologia e Climatologia|41|Probabilidade e Estatística
 10|Saúde e Vigilância Ambiental|16|Química Ambiental
@@ -249,20 +318,25 @@ sqlite>
 
 ~~~
 
-### Query05
+#### Script fera
 ~~~
-sqlite> select ementa.from_ementa_id,ementaf.item,ementa.to_ementa_id,ementat.item from matrizcurricular_ementa_dependente as ementa, matrizcurricular_ementa as ementaf, matrizcurricular_ementa as ementat where ementa.from_ementa_id=ementaf.id and ementa.to_ementa_id=ementat.id limit 10;
-from_ementa_id|item|to_ementa_id|item
-23|Gravitação|17|Leis de Newton
-23|Gravitação|21|Lei de Conservação de energia
-23|Gravitação|14|Grandezas físicas e vetoriais
-32|Teoria cinética dos gases|17|Leis de Newton
-32|Teoria cinética dos gases|20|Trabalho e energia
-32|Teoria cinética dos gases|21|Lei de Conservação de energia
-33|Entropia|20|Trabalho e energia
-33|Entropia|21|Lei de Conservação de energia
-24|Ondas em meios elásticos|16|Movimento circular e uniforme e variado
-25|Ondas sonoras|16|Movimento circular e uniforme e variado
-sqlite> 
+sqlite3 db.sqlite3 "select pr.id,pr.from_disciplina_id,discf.nome,pr.to_disciplina_id,disct.nome from matrizcurricular_disciplina_prerequisito as pr, matrizcurricular_disciplina as discf,matrizcurricular_disciplina as disct where pr.from_disciplina_id=discf.id and pr.to_disciplina_id=disct.id order by pr.from_disciplina_id" | awk -F'|' '
+   # sqlite output line - pick up fields and store in arrays
+   { field1[++i]=$1; field2[i]=$2; field3[i]=$3; field4[i]=$4;field5[i]=$5;}
 
+   END {
+      printf "[\n";
+      for(j=1;j<=i;j++){
+         printf "  {\n"
+         printf "    |id|:%d,\n",field1[j]
+         printf "    |disc_id|:%d,\n",field2[j]
+         printf "    |disc_nome|:|%s|,\n",field3[j]
+         printf "    |disc_prereq_id|:%d,\n",field4[j]
+         printf "    |disc_prereq_nome|:|%s|\n",field5[j]
+         closing="  },\n"
+         if(j==i){closing="  }\n"}
+         printf closing;
+      }
+      printf "]\n";
+   }' | tr '|' '"' > query04.json
 ~~~
