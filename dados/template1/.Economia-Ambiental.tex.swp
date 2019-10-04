@@ -1,0 +1,71 @@
+\documentclass[12pt,a4paper,twoside]{report}
+%+++ PACOTES
+%\usepackage[portuges]{babel} 
+\usepackage[utf8]{inputenc} 
+%--- PACOTES
+%+++ LAYOUT DA PAGINA
+\setlength{\topmargin}{1.0cm} 
+\setlength{\headheight}{0.0cm} 
+\setlength{\headsep}{0.5cm} 
+\setlength{\textheight}{26cm} 
+\setlength{\oddsidemargin}{1.0cm} 
+\setlength{\evensidemargin}{1.0cm} 
+\setlength{\textwidth}{19cm} 
+\setlength{\footskip}{1cm} 
+\setlength{\columnsep}{.5cm} 
+\addtolength{\oddsidemargin}{-1in} 
+\addtolength{\evensidemargin}{-1in} 
+\addtolength{\topmargin}{-1in}
+%--- LAYOUT DA PAGINA
+
+\begin{document}
+
+Disciplina: Economia Ambiental
+
+Pré-requisito:
+\begin{enumerate}
+\item Calculo Integral e Diferencial III
+\end{enumerate}
+
+Ementa:
+\begin{enumerate}
+\item Conceitos básicos de economia
+\item Conceitos de Microeconomia e macroeconomia.
+\item Economia de Mercado.
+\item Engenharia Econômica.
+\item Economia em meio ambiente.
+\item Conceitos economicos para o Desenvolvimento Sustentável.
+\item Valor econômico do meio ambiente.
+\item Tecnicas de valoração econômica do Meio Ambiente.
+\item Princípio do Poluidor Usuário/Pagador e Protetor recebedor.
+\item Gestão Econômica do Meio Ambiente.
+\item Instrumentos econômicos de gestão do meio ambiente.
+\end{enumerate}
+
+Bibliografia:
+\begin{enumerate}
+\item Qde: 0 - Tipo: livro - Uso: basica - isbn-issn: Não tem - Citação: Manual para Valoração de Recursos Naturais, Ronaldo Seroa da Mota, 1997
+\item Qde: 20 - Tipo: livro - Uso: basica - isbn-issn: 9788538401773 - Citação: Economia Ambiental - Gestão de custos e investimentos, 2011. Editora Del Rey.
+\item Qde: 20 - Tipo: livro - Uso: basica - isbn-issn: 9788522434671 - Citação: Rossetti, José Paschoal, Introdução à Economia. Editora Atlas, 992 pg, 2003
+\item Qde: 20 - Tipo: livro - Uso: basica - isbn-issn: 9788535210446 - Citação: Stiglitz, J. E. Introdução à Microeconomia. 2003
+\item Qde: 20 - Tipo: livro - Uso: complementar - isbn-issn: 9788579280030 - Citação: Moraes, O. J. Economia Ambiental - Instrumentos Econômicos para o Desenvolvimento Sustentável. Editora Centauro. 224pg. 2009
+\item Qde: 20 - Tipo: livro - Uso: complementar - isbn-issn: 9788521617341 - Citação: Huberman, L. História da Riqueza do Homem. Editora LTC. 2010
+\item Qde: 20 - Tipo: livro - Uso: basica - isbn-issn: 8522426627 - Citação: Hirschfeld, H. Engenharia Econômica e Analise de Custos. Editora Atlas. 519 pg. 2001.
+\item Qde: 20 - Tipo: livro - Uso: complementar - isbn-issn: 978-8522505449 - Citação: Motta, R. S. Economia Ambiental. Editora FGV. 399 pg. 2008.
+\end{enumerate}
+
+Bibliografia:
+\begin{tabular}{lllll}
+Qde & Tipo & Uso & isbn-issn & Citação \\
+0&livro&basica&Não tem&Manual para Valoração de Recursos Naturais, Ronaldo Seroa da Mota, 1997\\
+20&livro&basica&9788538401773&Economia Ambiental - Gestão de custos e investimentos, 2011. Editora Del Rey.\\
+20&livro&basica&9788522434671&Rossetti, José Paschoal, Introdução à Economia. Editora Atlas, 992 pg, 2003\\
+20&livro&basica&9788535210446&Stiglitz, J. E. Introdução à Microeconomia. 2003\\
+20&livro&complementar&9788579280030&Moraes, O. J. Economia Ambiental - Instrumentos Econômicos para o Desenvolvimento Sustentável. Editora Centauro. 224pg. 2009\\
+20&livro&complementar&9788521617341&Huberman, L. História da Riqueza do Homem. Editora LTC. 2010\\
+20&livro&basica&8522426627&Hirschfeld, H. Engenharia Econômica e Analise de Custos. Editora Atlas. 519 pg. 2001.\\
+20&livro&complementar&978-8522505449&Motta, R. S. Economia Ambiental. Editora FGV. 399 pg. 2008.\\
+\end{tabular}
+
+\end{document}
+    

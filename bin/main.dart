@@ -1,20 +1,24 @@
 import 'package:ppcea/ler_dados.dart';
 import 'package:ppcea/ppcea.dart' as ppcea;
 import 'package:mongo_dart/mongo_dart.dart';
+import 'package:ppcea/template1.dart';
 
 main(List<String> arguments) async {
+  Template1 template1 = Template1();
+  template1.executar();
+
   // print('Hello world: ${ppcea.calculate()}!');
-  LerDados a = LerDados('dados/a.txt');
-  // a.ler();
-  // print(a.toString());
-  Db db = Db('mongodb://localhost:27017/ppcea2');
-  await db.open();
-  print('conectado ao mongo');
+  // LerDados a = LerDados('dados/a.txt');
+  // // a.ler();
+  // // print(a.toString());
+  // Db db = Db('mongodb://localhost:27017/ppcea2');
+  // await db.open();
+  // print('conectado ao mongo');
 
-  DbCollection discCol = db.collection('disciplina');
+  // DbCollection discCol = db.collection('disciplina');
 
-  var disc = await discCol.find().toList();
-  print(disc);
+  // var disc = await discCol.find().toList();
+  // print(disc);
 
   // var disc = await discCol.find(where.eq('id', 125)).toList();
   // print(disc);

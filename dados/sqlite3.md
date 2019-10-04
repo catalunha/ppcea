@@ -1,3 +1,25 @@
+- [Script fera](#script-fera)
+    - [Preparar para exportar query](#preparar-para-exportar-query)
+- [](#)
+- [configuracoes](#configuracoes)
+  - [Tabelas](#tabelas)
+    - [matrizcurricular_ppc](#matrizcurricularppc)
+  - [Query](#query)
+    - [Query01](#query01)
+      - [matrizcurricular_bibliografia](#matrizcurricularbibliografia)
+      - [lista das bibliografias](#lista-das-bibliografias)
+      - [Script fera](#script-fera-1)
+    - [Query02](#query02)
+      - [matrizcurricular_disciplina](#matrizcurriculardisciplina)
+      - [Script fera](#script-fera-2)
+    - [Query03](#query03)
+      - [matrizcurricular_ementa](#matrizcurricularementa)
+      - [Script fera](#script-fera-3)
+    - [Query04](#query04)
+      - [matrizcurricular_disciplina_prerequisito](#matrizcurriculardisciplinaprerequisito)
+      - [Script fera](#script-fera-4)
+
+
 
 # Script fera
 ~~~
