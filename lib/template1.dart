@@ -1,6 +1,5 @@
 import 'dart:io';
 import 'package:mongo_dart/mongo_dart.dart';
-import 'package:queries/collections.dart';
 
 class Template1 {
   Template1();
@@ -16,7 +15,6 @@ class Template1 {
     DbCollection bibCol = db.collection('bibliografia');
 
     var discList = await discCol.find().toList();
-
     for (var disc in discList) {
       String nome = limparAcentos(disc['nome']);
       print(nome);
@@ -24,9 +22,14 @@ class Template1 {
           File("./dados/template1/${nome}.tex").openWrite(mode: FileMode.write);
       template.clear();
       beginDocument();
-      template.write('Disciplina: ${disc['nome']}');
+      template.writeln('\nDisciplina: ${disc['nome']}');
+      template.writeln('\nCódigo: ${disc['codigo']}');
+      template.writeln('\nPeríodo: ${disc['periodo']}');
+      template.writeln('\nCategoria: ${disc['categoria']}');
+      template.writeln('\nCH Teórica: ${disc['chteorica']}');
+      template.writeln('\nCH Prática: ${disc['chpratica']}');
       //+++ PreReq
-      template.write('\n\nPré-requisito:');
+      template.write('\n\n\n\nPré-requisito:');
       template.writeln();
       template.write(r'\begin{enumerate}');
       template.writeln();
@@ -70,11 +73,10 @@ class Template1 {
       // template.write(r'\end{enumerate}');
       // //--- Bibliografia Lista
 
-
       //+++ Bibliografia tabela
-      template.write('\n\nBibliografia:');
+      template.write('\n\n\n\nBibliografia:\n\n');
       template.writeln();
-      template.write(r'\begin{tabular}{lllll}');
+      template.write(r'\begin{tabular}{llllp{8cm}}');
       template.writeln();
       template.write(r"Qde & Tipo & Uso & isbn-issn & Citação \\");
       template.writeln();
@@ -82,7 +84,8 @@ class Template1 {
       bibList2.sort((a, b) => a['uso'].compareTo(b['uso']));
       for (var bib in bibList2) {
         print("* ${bib['citacao']}");
-        template.write("${bib['quantidade']}&${bib['tipo']}&${bib['uso']}&${bib['isbn_issn']}&${bib['citacao']}\\\\");
+        template.write(
+            "${bib['quantidade']}&${bib['tipo']}&${bib['uso']}&${bib['isbn_issn']}&${bib['citacao']}\\\\");
         template.writeln();
       }
       template.write(r'\end{tabular}');
